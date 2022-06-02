@@ -353,7 +353,915 @@
     ],
     
     "building pieces": [
-    
+        {
+            "name": "Aluminium Beam",
+            "category": "Building Pieces",
+            "crafting station": "Machining Bench",
+            "ingredients": ["2 Aluminium Ore", "2 Wood", "2 Steel Screw"],
+            "tier": 3,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Aluminium Door",
+            "category": "Building Pieces",
+            "crafting station": "Machining Bench",
+            "ingredients": ["4 Aluminium Ore", "6 Wood", "4 Steel Screw"],
+            "tier": 3,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Aluminium Floor",
+            "category": "Building Pieces",
+            "crafting station": "Machining Bench",
+            "ingredients": ["4 Aluminium Ore", "6 Wood", "4 Steel Screw"],
+            "tier": 3,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Aluminium Floor Trapdoor",
+            "category": "Building Pieces",
+            "crafting station": "Machining Bench",
+            "ingredients": ["4 Aluminium Ore", "6 Wood", "4 Steel Screw"],
+            "tier": 3,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Aluminium Beam",
+            "category": "Building Pieces",
+            "crafting station": "Machining Bench",
+            "ingredients": ["2 Aluminium Ore", "2 Wood", "2 Steel Screw"],
+            "tier": 3,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Aluminium Halfpieces",
+            "category": "Building Pieces",
+            "crafting station": "Machining Bench",
+            "ingredients": ["4 Aluminium Ore", "6 Wood", "4 Steel Screw"],
+            "tier": 3,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Aluminium Halfpitches",
+            "category": "Building Pieces",
+            "crafting station": "Machining Bench",
+            "ingredients": ["4 Aluminium Ore", "6 Wood", "4 Steel Screw"],
+            "tier": 3,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Aluminium Ladder",
+            "category": "Building Pieces",
+            "crafting station": "Machining Bench",
+            "ingredients": ["2 Aluminium Ore", "2 Wood", "6 Steel Screw"],
+            "tier": 3,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Aluminium Railing",
+            "category": "Building Pieces",
+            "crafting station": "Machining Bench",
+            "ingredients": ["2 Aluminium Ore", "2 Wood", "6 Steel Screw"],
+            "tier": 3,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Aluminium Ramp",
+            "category": "Building Pieces",
+            "crafting station": "Machining Bench",
+            "ingredients": ["4 Aluminium Ore", "6 Wood", "4 Steel Screw"],
+            "tier": 3,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Aluminium Roof",
+            "category": "Building Pieces",
+            "crafting station": "Machining Bench",
+            "ingredients": ["4 Aluminium Ore", "6 Wood", "4 Steel Screw"],
+            "tier": 3,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Aluminium Roof Corner",
+            "category": "Building Pieces",
+            "crafting station": "Machining Bench",
+            "ingredients": ["2 Aluminium Ore", "6 Wood", "4 Steel Screw"],
+            "tier": 3,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Aluminium Stairs",
+            "category": "Building Pieces",
+            "crafting station": "Machining Bench",
+            "ingredients": ["4 Aluminium Ore", "6 Wood", "4 Steel Screw"],
+            "tier": 3,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Aluminium Trapdoor",
+            "category": "Building Pieces",
+            "crafting station": "Machining Bench",
+            "ingredients": ["4 Aluminium Ore", "6 Wood", "4 Steel Screw"],
+            "tier": 3,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Aluminium Wall",
+            "category": "Building Pieces",
+            "crafting station": "Machining Bench",
+            "ingredients": ["4 Aluminium Ore", "6 Wood", "4 Steel Screw"],
+            "tier": 3,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Aluminium Wall Angled",
+            "category": "Building Pieces",
+            "crafting station": "Machining Bench",
+            "ingredients": ["4 Aluminium Ore", "6 Wood", "2 Steel Screw"],
+            "tier": 3,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Aluminium Window",
+            "category": "Building Pieces",
+            "crafting station": "Machining Bench",
+            "ingredients": ["2 Aluminium Ore", "3 Wood", "4 Steel Screw"],
+            "tier": 3,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Concrete Beam",
+            "category": "Building Pieces",
+            "crafting station": "Cement Mixer",
+            "ingredients": ["8 Steel Rebar", "2 Concrete Mix", "2 Steel Screw"],
+            "tier": 3,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Concrete Floor",
+            "category": "Building Pieces",
+            "crafting station": "Cement Mixer",
+            "ingredients": ["10 Steel Rebar", "4 Concrete Mix", "4 Steel Screw"],
+            "tier": 3,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Concrete Floor Trapdoor",
+            "category": "Building Pieces",
+            "crafting station": "Cement Mixer",
+            "ingredients": ["10 Steel Rebar", "4 Concrete Mix", "4 Steel Screw"],
+            "tier": 3,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Concrete Frame",
+            "category": "Building Pieces",
+            "crafting station": "Cement Mixer",
+            "ingredients": ["20 Steel Rebar", "8 Concrete Mix", "10 Steel Screw"],
+            "tier": 3,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Concrete Halfpieces",
+            "category": "Building Pieces",
+            "crafting station": "Cement Mixer",
+            "ingredients": ["10 Steel Rebar", "4 Concrete Mix", "4 Steel Screw"],
+            "tier": 3,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Concrete Halfpitches",
+            "category": "Building Pieces",
+            "crafting station": "Cement Mixer",
+            "ingredients": ["10 Steel Rebar", "4 Concrete Mix", "4 Steel Screw"],
+            "tier": 3,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Concrete Railing",
+            "category": "Building Pieces",
+            "crafting station": "Machining Bench",
+            "ingredients": ["2 Aluminium Ore", "2 Wood", "6 Steel Screw"],
+            "tier": 3,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Concrete Ramp",
+            "category": "Building Pieces",
+            "crafting station": "Cement Mixer",
+            "ingredients": ["12 Steel Rebar", "4 Concrete Mix", "4 Steel Screw"],
+            "tier": 3,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Concrete Roof",
+            "category": "Building Pieces",
+            "crafting station": "Machining Bench",
+            "ingredients": ["12 Steel Rebar", "4 Concrete Mix", "4 Steel Screw"],
+            "tier": 3,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Concrete Roof Corner",
+            "category": "Building Pieces",
+            "crafting station": "Machining Bench",
+            "ingredients": ["8 Steel Rebar", "4 Concrete Mix", "4 Steel Screw"],
+            "tier": 3,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Concrete Stairs",
+            "category": "Building Pieces",
+            "crafting station": "Machining Bench",
+            "ingredients": ["12 Steel Rebar", "4 Concrete Mix", "4 Steel Screw"],
+            "tier": 3,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Concrete Wall",
+            "category": "Building Pieces",
+            "crafting station": "Cement Mixer",
+            "ingredients": ["10 Steel Rebar", "4 Concrete Mix", "4 Steel Screw"],
+            "tier": 3,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Concrete Wall Angled",
+            "category": "Building Pieces",
+            "crafting station": "Cement Mixer",
+            "ingredients": ["8 Steel Rebar", "4 Concrete Mix", "4 Steel Screw"],
+            "tier": 3,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Heavy Trapdoor",
+            "category": "Building Pieces",
+            "crafting station": "Machining Bench",
+            "ingredients": ["12 Iron Ingot", "4 Steel Screw", "4 Epoxy"],
+            "tier": 3,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Glass Beam",
+            "category": "Building Pieces",
+            "crafting station": "Glassworking Bench",
+            "ingredients": ["6 Iron Ingot", "12 Epoxy"],
+            "tier": 3,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Glass Door",
+            "category": "Building Pieces",
+            "crafting station": "Glassworking Bench",
+            "ingredients": ["6 Iron Ingot", "20 Glass", "12 Epoxy"],
+            "tier": 3,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Glass Roof",
+            "category": "Building Pieces",
+            "crafting station": "Glassworking Bench",
+            "ingredients": ["6 Iron Ingot", "20 Glass", "12 Epoxy"],
+            "tier": 3,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Glass Roof Corner",
+            "category": "Building Pieces",
+            "crafting station": "Glassworking Bench",
+            "ingredients": ["3 Iron Ingot", "10 Glass", "6 Epoxy"],
+            "tier": 3,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Glass Wall",
+            "category": "Building Pieces",
+            "crafting station": "Glassworking Bench",
+            "ingredients": ["6 Iron Ingot", "20 Glass", "12 Epoxy"],
+            "tier": 3,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Glass Wall Angled",
+            "category": "Building Pieces",
+            "crafting station": "Glassworking Bench",
+            "ingredients": ["3 Iron Ingot", "10 Glass", "6 Epoxy"],
+            "tier": 3,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Glass Window",
+            "category": "Building Pieces",
+            "crafting station": "Glassworking Bench",
+            "ingredients": ["12 Wood", "18 Glass", "4 Epoxy"],
+            "tier": 3,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Heavy Glass Window",
+            "category": "Building Pieces",
+            "crafting station": "Glassworking Bench",
+            "ingredients": ["12 Iron Ingot", "18 Glass", "4 Epoxy"],
+            "tier": 3,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Interior Wood Beam",
+            "category": "Building Pieces",
+            "crafting station": "Carpentry Bench",
+            "ingredients": ["6 Refined Wood", "4 Copper Nail"],
+            "tier": 2,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Interior Wood Door",
+            "category": "Building Pieces",
+            "crafting station": "Carpentry Bench",
+            "ingredients": ["8 Rope", "10 Refined Wood", "6 Copper Nail"],
+            "tier": 2,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Interior Wood Floor",
+            "category": "Building Pieces",
+            "crafting station": "Carpentry Bench",
+            "ingredients": ["20 Refined Wood", "4 Copper Nail"],
+            "tier": 2,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Interior Wood Floor Trapdoor",
+            "category": "Building Pieces",
+            "crafting station": "Carpentry Bench",
+            "ingredients": ["20 Refined Wood", "4 Copper Nail"],
+            "tier": 2,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Interior Wood Halfpieces",
+            "category": "Building Pieces",
+            "crafting station": "Carpentry Bench",
+            "ingredients": ["20 Refined Wood", "4 Copper Nail"],
+            "tier": 2,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Interior Wood Halfpitches",
+            "category": "Building Pieces",
+            "crafting station": "Carpentry Bench",
+            "ingredients": ["20 Refined Wood", "4 Copper Nail"],
+            "tier": 2,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Interior Wood Ladder",
+            "category": "Building Pieces",
+            "crafting station": "Carpentry Bench",
+            "ingredients": ["10 Refined Wood", "6 Copper Nail"],
+            "tier": 2,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Interior Wood Railing",
+            "category": "Building Pieces",
+            "crafting station": "Carpentry Bench",
+            "ingredients": ["8 Refined Wood", "4 Copper Nail"],
+            "tier": 2,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Interior Wood Ramp",
+            "category": "Building Pieces",
+            "crafting station": "Carpentry Bench",
+            "ingredients": ["20 Refined Wood", "4 Copper Nail"],
+            "tier": 2,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Interior Wood Stairs",
+            "category": "Building Pieces",
+            "crafting station": "Carpentry Bench",
+            "ingredients": ["20 Refined Wood", "4 Copper Nail"],
+            "tier": 2,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Interior Wood Trapdoor",
+            "category": "Building Pieces",
+            "crafting station": "Carpentry Bench",
+            "ingredients": ["4 Rope", "10 Refined Wood", "2 Copper Nail"],
+            "tier": 2,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Interior Wood Wall",
+            "category": "Building Pieces",
+            "crafting station": "Carpentry Bench",
+            "ingredients": ["20 Refined Wood", "4 Copper Nail"],
+            "tier": 2,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Interior Wood Wall Angled",
+            "category": "Building Pieces",
+            "crafting station": "Carpentry Bench",
+            "ingredients": ["10 Refined Wood", "2 Copper Nail"],
+            "tier": 2,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Reinforced Door",
+            "category": "Building Pieces",
+            "crafting station": "Crafting Bench",
+            "ingredients": ["4 Wood", "6 Iron Ingot", "8 Iron Nail", "4 Rope"],
+            "tier": 2,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Reinforced Ladder",
+            "category": "Building Pieces",
+            "crafting station": "Crafting Bench",
+            "ingredients": ["10 Wood", "8 Iron Ingot", "8 Iron Nail"],
+            "tier": 2,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Reinforced Railing",
+            "category": "Building Pieces",
+            "crafting station": "Crafting Bench",
+            "ingredients": ["10 Wood", "8 Iron Ingot", "8 Iron Nail"],
+            "tier": 2,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Reinforced Trapdoor",
+            "category": "Building Pieces",
+            "crafting station": "Crafting Bench",
+            "ingredients": ["4 Wood", "2 Iron Ingot", "4 Iron Nail", "4 Rope"],
+            "tier": 2,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Reinforced Window",
+            "category": "Building Pieces",
+            "crafting station": "Crafting Bench",
+            "ingredients": ["4 Wood", "2 Iron Ingot", "8 Iron Nail", "4 Rope"],
+            "tier": 2,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Stone Beam",
+            "category": "Building Pieces",
+            "crafting station": "Masonry Bench",
+            "ingredients": ["2 Wood", "6 Stone", "1 Leather", "6 Iron Nail"],
+            "tier": 2,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Stone Floor",
+            "category": "Building Pieces",
+            "crafting station": "Masonry Bench",
+            "ingredients": ["6 Wood", "20 Stone", "4 Leather", "6 Iron Nail"],
+            "tier": 2,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Stone Floor Trapdoor",
+            "category": "Building Pieces",
+            "crafting station": "Masonry Bench",
+            "ingredients": ["6 Wood", "20 Stone", "4 Leather", "6 Iron Nail"],
+            "tier": 2,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Stone Frame",
+            "category": "Building Pieces",
+            "crafting station": "Masonry Bench",
+            "ingredients": ["12 Wood", "40 Stone", "4 Leather", "12 Iron Nail"],
+            "tier": 2,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Stone Halfpieces",
+            "category": "Building Pieces",
+            "crafting station": "Masonry Bench",
+            "ingredients": ["6 Wood", "20 Stone", "4 Leather", "6 Iron Nail"],
+            "tier": 2,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Stone Halfpitches",
+            "category": "Building Pieces",
+            "crafting station": "Masonry Bench",
+            "ingredients": ["6 Wood", "20 Stone", "4 Leather", "6 Iron Nail"],
+            "tier": 2,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Stone Ramp",
+            "category": "Building Pieces",
+            "crafting station": "Masonry Bench",
+            "ingredients": ["6 Wood", "20 Stone", "4 Leather", "6 Iron Nail"],
+            "tier": 2,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Stone Roof",
+            "category": "Building Pieces",
+            "crafting station": "Masonry Bench",
+            "ingredients": ["6 Wood", "20 Stone", "4 Leather", "6 Iron Nail"],
+            "tier": 2,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Stone Roof Corner",
+            "category": "Building Pieces",
+            "crafting station": "Masonry Bench",
+            "ingredients": ["3 Wood", "10 Stone", "2 Leather", "4 Iron Nail"],
+            "tier": 2,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Stone Stairs",
+            "category": "Building Pieces",
+            "crafting station": "Masonry Bench",
+            "ingredients": ["6 Wood", "20 Stone", "4 Leather", "6 Iron Nail"],
+            "tier": 2,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Stone Wall",
+            "category": "Building Pieces",
+            "crafting station": "Masonry Bench",
+            "ingredients": ["6 Wood", "20 Stone", "4 Leather", "6 Iron Nail"],
+            "tier": 2,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Stone Wall Angled",
+            "category": "Building Pieces",
+            "crafting station": "Masonry Bench",
+            "ingredients": ["3 Wood", "10 Stone", "2 Leather", "4 Iron Nail"],
+            "tier": 2,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Thatch Beam",
+            "category": "Building Pieces",
+            "crafting station": "Character",
+            "ingredients": ["12 Fiber", "6 Stick"],
+            "tier": 1,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Thatch Door",
+            "category": "Building Pieces",
+            "crafting station": "Character",
+            "ingredients": ["10 Fiber", "4 Stick"],
+            "tier": 1,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Thatch Floor",
+            "category": "Building Pieces",
+            "crafting station": "Character",
+            "ingredients": ["20 Fiber", "3 Stick"],
+            "tier": 1,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Thatch Floor Trapdoor",
+            "category": "Building Pieces",
+            "crafting station": "Character",
+            "ingredients": ["20 Fiber", "3 Stick"],
+            "tier": 1,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Thatch Halfpieces",
+            "category": "Building Pieces",
+            "crafting station": "Character",
+            "ingredients": ["20 Fiber", "3 Stick"],
+            "tier": 1,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Thatch Floor Halfpitches",
+            "category": "Building Pieces",
+            "crafting station": "Character",
+            "ingredients": ["20 Fiber", "3 Stick"],
+            "tier": 1,
+            "weight": null,
+            "durability": null
+        },    
+{
+            "name": "Thatch Ladder",
+            "category": "Building Pieces",
+            "crafting station": "Character",
+            "ingredients": ["6 Fiber", "10 Stick"],
+            "tier": 1,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Thatch Railing",
+            "category": "Building Pieces",
+            "crafting station": "Character",
+            "ingredients": ["8 Fiber", "2 Stick"],
+            "tier": 1,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Thatch Ramp",
+            "category": "Building Pieces",
+            "crafting station": "Character",
+            "ingredients": ["20 Fiber", "3 Stick"],
+            "tier": 1,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Thatch Roof",
+            "category": "Building Pieces",
+            "crafting station": "Character",
+            "ingredients": ["20 Fiber", "3 Stick"],
+            "tier": 1,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Thatch Roof Corner",
+            "category": "Building Pieces",
+            "crafting station": "Character",
+            "ingredients": ["10 Fiber", "2 Stick"],
+            "tier": 1,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Thatch Stairs",
+            "category": "Building Pieces",
+            "crafting station": "Character",
+            "ingredients": ["20 Fiber", "3 Stick"],
+            "tier": 1,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Thatch Trapdoor",
+            "category": "Building Pieces",
+            "crafting station": "Character",
+            "ingredients": ["10 Fiber", "4 Stick"],
+            "tier": 1,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Thatch Wall",
+            "category": "Building Pieces",
+            "crafting station": "Character",
+            "ingredients": ["20 Fiber", "3 Stick"],
+            "tier": 1,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Thatch Wall Angled",
+            "category": "Building Pieces",
+            "crafting station": "Character",
+            "ingredients": ["10 Fiber", "2 Stick"],
+            "tier": 1,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Thatch Window",
+            "category": "Building Pieces",
+            "crafting station": "Character",
+            "ingredients": ["10 Fiber", "4 Stick"],
+            "tier": 1,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Wood Beam",
+            "category": "Building Pieces",
+            "crafting station": "Character",
+            "ingredients": ["4 Fiber", "6 Wood"],
+            "tier": 1,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Wood Door",
+            "category": "Building Pieces",
+            "crafting station": "Character",
+            "ingredients": ["8 Fiber", "10 Wood"],
+            "tier": 1,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Wood Floor",
+            "category": "Building Pieces",
+            "crafting station": "Character",
+            "ingredients": ["12 Fiber", "20 Wood"],
+            "tier": 1,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Wood Floor Trapdoor",
+            "category": "Building Pieces",
+            "crafting station": "Character",
+            "ingredients": ["12 Fiber", "20 Wood"],
+            "tier": 1,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Wood Halfpieces",
+            "category": "Building Pieces",
+            "crafting station": "Character",
+            "ingredients": ["12 Fiber", "20 Wood"],
+            "tier": 1,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Wood Halfpitches",
+            "category": "Building Pieces",
+            "crafting station": "Character",
+            "ingredients": ["12 Fiber", "20 Wood"],
+            "tier": 1,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Wood Ladder",
+            "category": "Building Pieces",
+            "crafting station": "Character",
+            "ingredients": ["6 Fiber", "10 Wood"],
+            "tier": 1,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Wood Railing",
+            "category": "Building Pieces",
+            "crafting station": "Character",
+            "ingredients": ["8 Fiber", "8 Wood"],
+            "tier": 1,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Wood Ramp",
+            "category": "Building Pieces",
+            "crafting station": "Character",
+            "ingredients": ["12 Fiber", "20 Wood"],
+            "tier": 1,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Wood Roof",
+            "category": "Building Pieces",
+            "crafting station": "Character",
+            "ingredients": ["12 Fiber", "20 Wood"],
+            "tier": 1,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Wood Roof Corner",
+            "category": "Building Pieces",
+            "crafting station": "Character",
+            "ingredients": ["6 Fiber", "10 Wood"],
+            "tier": 1,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Wood Stairs",
+            "category": "Building Pieces",
+            "crafting station": "Character",
+            "ingredients": ["12 Fiber", "20 Wood"],
+            "tier": 1,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Wood Trapdoor",
+            "category": "Building Pieces",
+            "crafting station": "Character",
+            "ingredients": ["4 Fiber", "10 Wood"],
+            "tier": 1,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Wood Wall",
+            "category": "Building Pieces",
+            "crafting station": "Character",
+            "ingredients": ["12 Fiber", "20 Wood"],
+            "tier": 1,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Wood Wall Angled",
+            "category": "Building Pieces",
+            "crafting station": "Character",
+            "ingredients": ["6 Fiber", "10 Wood"],
+            "tier": 1,
+            "weight": null,
+            "durability": null
+        },
+        {
+            "name": "Wood Window",
+            "category": "Building Pieces",
+            "crafting station": "Character",
+            "ingredients": ["8 Fiber", "10 Wood"],
+            "tier": 1,
+            "weight": null,
+            "durability": null
+        }
     ],
     
     "consumables": [
