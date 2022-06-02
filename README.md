@@ -1,2 +1,2 @@
-# icarus_quest
-Icarus related stuff
+# Icarus Stuff
+So far only an incomplete .json of the items of Icarus.
