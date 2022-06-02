@@ -149,8 +149,207 @@
             "crafting station": "Textiles Bench",
             "ingredients": ["8 Leather", "18 Fur", "6 Rope"],
             "weight": 4
-        }
-        
+        },
+        {
+            "name": "Ghillie Arms Armor",
+            "category": "Armors",
+            "description": "Lightweight camouflage, reduces visibility to wildlife, but gives little protection or warmth.",
+            "flavor": "Take the effort out of hunting.",
+            "tier": 2,
+            "crafting station": "Textiles Bench",
+            "ingredients": ["120 Fiber", "4 Stick", "2 Rope"],
+            "weight": null
+        },
+        {
+            "name": "Ghillie Chest Armor",
+            "category": "Armors",
+            "description": "Lightweight camouflage, reduces visibility to wildlife, but gives little protection or warmth.",
+            "flavor": "Take the effort out of hunting.",
+            "tier": 2,
+            "crafting station": "Textiles Bench",
+            "ingredients": ["160 Fiber", "8 Stick", "6 Rope"],
+            "weight": null
+        },
+        {
+            "name": "Ghillie Feet Armor",
+            "category": "Armors",
+            "description": "Lightweight camouflage, reduces visibility to wildlife, but gives little protection or warmth.",
+            "flavor": "Take the effort out of hunting.",
+            "tier": 2,
+            "crafting station": "Textiles Bench",
+            "ingredients": ["80 Fiber", "6 Stick", "4 Rope"],
+            "weight": null
+        },
+        {
+            "name": "Ghillie Head Armor",
+            "category": "Armors",
+            "description": "Lightweight camouflage, reduces visibility to wildlife, but gives little protection or warmth.",
+            "flavor": "Take the effort out of hunting.",
+            "tier": 2,
+            "crafting station": "Textiles Bench",
+            "ingredients": ["120 Fiber", "2 Stick", "4 Rope"],
+            "weight": null
+        },
+        {
+            "name": "Ghillie Legs Armor",
+            "category": "Armors",
+            "description": "Lightweight camouflage, reduces visibility to wildlife, but gives little protection or warmth.",
+            "flavor": "Take the effort out of hunting.",
+            "tier": 2,
+            "crafting station": "Textiles Bench",
+            "ingredients": ["160 Fiber", "8 Stick", "6 Rope"],
+            "weight": null
+        },
+        {
+            "name": "Hunter Arms Armor",
+            "category": "Armors",
+            "description": "Lightweight camouflage, reduces visibility to wildlife, but gives little protection or warmth.",
+            "flavor": "Take the effort out of hunting.",
+            "tier": 3,
+            "crafting station": "Machining Bench",
+            "ingredients": ["120 Fiber", "8 Leather", "4 Epoxy"],
+            "weight": null
+        },
+        {
+            "name": "Hunter Chest Armor",
+            "category": "Armors",
+            "description": "Lightweight camouflage, reduces visibility to wildlife, but gives little protection or warmth.",
+            "flavor": "Take the effort out of hunting.",
+            "tier": 3,
+            "crafting station": "Machining Bench",
+            "ingredients": ["160 Fiber", "20 Leather", "6 Rope", "16 Epoxy"],
+            "weight": null
+        },
+        {
+            "name": "Hunter Feet Armor",
+            "category": "Armors",
+            "description": "Lightweight camouflage, reduces visibility to wildlife, but gives little protection or warmth.",
+            "flavor": "Take the effort out of hunting.",
+            "tier": 3,
+            "crafting station": "Machining Bench",
+            "ingredients": ["80 Fiber", "12 Leather", "4 Rope", "4 Epoxy"],
+            "weight": null
+        },
+        {
+            "name": "Hunter Head Armor",
+            "category": "Armors",
+            "description": "Lightweight camouflage, reduces visibility to wildlife, but gives little protection or warmth.",
+            "flavor": "Take the effort out of hunting.",
+            "tier": 3,
+            "crafting station": "Machining Bench",
+            "ingredients": ["120 Fiber", "4 Rope", "8 Epoxy"],
+            "weight": null
+        },
+        {
+            "name": "Hunter Legs Armor",
+            "category": "Armors",
+            "description": "Lightweight camouflage, reduces visibility to wildlife, but gives little protection or warmth.",
+            "flavor": "Take the effort out of hunting.",
+            "tier": 3,
+            "crafting station": "Machining Bench",
+            "ingredients": ["160 Fiber", "20 Leather", "6 Rope", "8 Epoxy"],
+            "weight": null
+        },
+        {
+            "name": "Leather Arms Armor",
+            "category": "Armors",
+            "description": "Gauntlets, providing basic protection and insulation.",
+            "flavor": null,
+            "tier": 2,
+            "crafting station": "Textiles Bench",
+            "ingredients": ["40 Fiber", "8 Leather"],
+            "weight": 1
+        },
+        {
+            "name": "Leather Chest Armor",
+            "category": "Armors",
+            "description": "A basic cuirass, gives limited insulation and damage protection.",
+            "flavor": null,
+            "tier": 2,
+            "crafting station": "Textiles Bench",
+            "ingredients": ["60 Fiber", "24 Leather"],
+            "weight": 2
+        },
+        {
+            "name": "Leather Feet Armor",
+            "category": "Armors",
+            "description": "Roughly made boots, increase temperature and damage resistance.",
+            "flavor": null,
+            "tier": 2,
+            "crafting station": "Textiles Bench",
+            "ingredients": ["20 Fiber", "12 Leather"],
+            "weight": 1
+        },
+        {
+            "name": "Leather Head Armor",
+            "category": "Armors",
+            "description": "Headgear, providing some insulation and damage protection.",
+            "flavor": null,
+            "tier": 2,
+            "crafting station": "Textiles Bench",
+            "ingredients": ["40 Fiber", "12 Leather"],
+            "weight": 1
+        },
+        {
+            "name": "Leather Legs Armor",
+            "category": "Armors",
+            "description": "Simple chausses, improving insulation and damage resistance.",
+            "flavor": null,
+            "tier": 2,
+            "crafting station": "Textiles Bench",
+            "ingredients": ["60 Fiber", "18 Leather"],
+            "weight": 2
+        },
+        {
+            "name": "Polar Bear Arms Armor",
+            "category": "Armors",
+            "description": "Tough and lightweight fur gloves offering extreme protection against low temperatures.",
+            "flavor": "Skinning polar bears has been illegal to everyone except Inuit hunters for centuries on Earth. On Icarus, there is no such prohibition.",
+            "tier": 2,
+            "crafting station": "Textiles Bench",
+            "ingredients": ["6 Leather", "8 Polar Bear Pelt", "4 Rope"],
+            "weight": 1
+        },
+        {
+            "name": "Polar Bear Chest Armor",
+            "category": "Armors",
+            "description": "Strong, lightweight body armor with extreme protection against cold.",
+            "flavor": "Evolved for the most demanding climate on Earth, the polar bear's skin works equally well in the most damaged environment on Icarus.",
+            "tier": 2,
+            "crafting station": "Textiles Bench",
+            "ingredients": ["10 Leather", "20 Polar Bear Pelt", "6 Rope"],
+            "weight": 4
+        },
+        {
+            "name": "Polar Bear Feet Armor",
+            "category": "Armors",
+            "description": "Highly insulated, lightweight protective fur boots.",
+            "flavor": "Evolved for the most demanding climate on Earth, the polar bear's skin works equally well in the most damaged environment on Icarus.",
+            "tier": 2,
+            "crafting station": "Textiles Bench",
+            "ingredients": ["6 Leather", "14 Polar Bear Pelt", "4 Rope"],
+            "weight": 1
+        },
+        {
+            "name": "Polar Bear Head Armor",
+            "category": "Armors",
+            "description": "Lightweight, highly insulated head protection.",
+            "flavor": "Once a warm high altitude desert, the arctic's temperature dropped in the aftermath of faile terraforming, leaving a frigid wasteland of which the polar bear is now the unchallenged apex predator.",
+            "tier": 2,
+            "crafting station": "Textiles Bench",
+            "ingredients": ["6 Leather", "15 Polar Bear Pelt", "8 Rope"],
+            "weight": 2
+        },
+        {
+            "name": "Polar Bear Legs Armor",
+            "category": "Armors",
+            "description": "Lightweight fur armor for the lower body, offering exceptional insulation.",
+            "flavor": "Once a warm high altitude desert, the arctic's temperature dropped in the aftermath of faile terraforming, leaving a frigid wasteland of which the polar bear is now the unchallenged apex predator.",
+            "tier": 2,
+            "crafting station": "Textiles Bench",
+            "ingredients": ["8 Leather", "18 Polar Bear Pelt", "8 Rope"],
+            "weight": 2
+        }        
     ],
     
     "building pieces": [
@@ -178,6 +377,155 @@
     ],
     
     "workshop": [
-    
+        {
+            "name": "CX-400 Arms Armor",
+            "category": "Armors",
+            "description": "The latest technology, designed to assist with mining and felling.",
+            "flavor": "You'll find you can lift more with this set.",
+            "crafting station": "Workshop",
+            "research cost": ["100 Ren", "50 Exotic"],
+            "craft cost": ["50 Ren", "50 Exotic"],
+            "weight": null
+        },
+        {
+            "name": "CX-400 Chest Armor",
+            "category": "Armors",
+            "description": "The latest technology, designed to assist with mining and felling.",
+            "flavor": "Get stronger, today!",
+            "crafting station": "Workshop",
+            "research cost": ["100 Ren", "50 Exotic"],
+            "craft cost": ["50 Ren", "50 Exotic"],
+            "weight": null
+        },
+        {
+            "name": "CX-400 Feet Armor",
+            "category": "Armors",
+            "description": "The latest technology, designed to assist with mining and felling.",
+            "flavor": "The toughest boots on the orbital market.",
+            "crafting station": "Workshop",
+            "research cost": ["100 Ren", "50 Exotic"],
+            "craft cost": ["50 Ren", "50 Exotic"],
+            "weight": null
+        },
+        {
+            "name": "CX-400 Head Armor",
+            "category": "Armors",
+            "description": "The latest technology, designed to assist with mining and felling.",
+            "flavor": "The perfect companion for any aspiring miner or lumberjack.",
+            "crafting station": "Workshop",
+            "research cost": ["100 Ren", "50 Exotic"],
+            "craft cost": ["50 Ren", "50 Exotic"],
+            "weight": null
+        },
+        {
+            "name": "CX-400 Legs Armor",
+            "category": "Armors",
+            "description": "The latest technology, designed to assist with mining and felling.",
+            "flavor": "Never skip leg day, unless you have these to help.",
+            "crafting station": "Workshop",
+            "research cost": ["100 Ren", "50 Exotic"],
+            "craft cost": ["50 Ren", "50 Exotic"],
+            "weight": null
+        },
+        {
+            "name": "Naneo Arms Armor",
+            "category": "Armors",
+            "description": "High strength, lightweight graphene nano-lattice armor from Norex.",
+            "flavor": null,
+            "crafting station": "Workshop",
+            "research cost": ["250 Ren"],
+            "craft cost": ["50 Ren"],
+            "weight": null
+        },
+        {
+            "name": "Naneo Chest Armor",
+            "category": "Armors",
+            "description": "High strength, lightweight graphene nano-lattice armor from Norex.",
+            "flavor": null,
+            "crafting station": "Workshop",
+            "research cost": ["250 Ren"],
+            "craft cost": ["50 Ren"],
+            "weight": null
+        },
+        {
+            "name": "Naneo Feet Armor",
+            "category": "Armors",
+            "description": "High strength, lightweight graphene nano-lattice armor from Norex.",
+            "flavor": null,
+            "crafting station": "Workshop",
+            "research cost": ["250 Ren"],
+            "craft cost": ["50 Ren"],
+            "weight": null
+        },
+        {
+            "name": "Naneo Head Armor",
+            "category": "Armors",
+            "description": "High strength, lightweight graphene nano-lattice armor from Norex.",
+            "flavor": "A high-tech balance of physical protection, lightwieght nano-construction, energy absorbance and protection against extremes of temperature.",
+            "crafting station": "Workshop",
+            "research cost": ["250 Ren"],
+            "craft cost": ["50 Ren"],
+            "weight": null
+        },
+        {
+            "name": "Naneo Legs Armor",
+            "category": "Armors",
+            "description": "High strength, lightweight graphene nano-lattice armor from Norex.",
+            "flavor": null,
+            "crafting station": "Workshop",
+            "research cost": ["250 Ren"],
+            "craft cost": ["50 Ren"],
+            "weight": null
+        },
+        {
+            "name": "ST-700 Arms Armor",
+            "category": "Armors",
+            "description": "A lightweight piece of armor designed with stealth and movement in mind.",
+            "flavor": "Please report any unusal side effects to your local UDA office.",
+            "crafting station": "Workshop",
+            "research cost": ["100 Ren", "50 Exotic"],
+            "craft cost": ["50 Ren", "50 Exotic"],
+            "weight": null
+        },
+        {
+            "name": "ST-700 Chest Armor",
+            "category": "Armors",
+            "description": "A lightweight piece of armor designed with stealth and movement in mind.",
+            "flavor": "Disclaimer: Processed in a factory that also handles radioactive material.",
+            "crafting station": "Workshop",
+            "research cost": ["100 Ren", "50 Exotic"],
+            "craft cost": ["50 Ren", "50 Exotic"],
+            "weight": null
+        },
+        {
+            "name": "ST-700 Feet Armor",
+            "category": "Armors",
+            "description": "A lightweight piece of armor designed with stealth and movement in mind.",
+            "flavor": "Some users may notice a mild tingling sensation when wearing these boots for an extended period.",
+            "crafting station": "Workshop",
+            "research cost": ["100 Ren", "50 Exotic"],
+            "craft cost": ["50 Ren", "50 Exotic"],
+            "weight": null
+        },
+        {
+            "name": "ST-700 Head Armor",
+            "category": "Armors",
+            "description": "A lightweight piece of armor designed with stealth and movement in mind.",
+            "flavor": "One of the many triumphs of human engineering.",
+            "crafting station": "Workshop",
+            "research cost": ["100 Ren", "50 Exotic"],
+            "craft cost": ["50 Ren", "50 Exotic"],
+            "weight": null
+        },
+        {
+            "name": "ST-700 Head Armor",
+            "category": "Armors",
+            "description": "A lightweight piece of armor designed with stealth and movement in mind.",
+            "flavor": "These armor pieces are made of the latest [REDACTED] materials.",
+            "crafting station": "Workshop",
+            "research cost": ["100 Ren", "50 Exotic"],
+            "craft cost": ["50 Ren", "50 Exotic"],
+            "weight": null
+        }
     ]
 }
