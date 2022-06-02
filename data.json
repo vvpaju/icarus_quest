@@ -1273,7 +1273,186 @@
     ],
     
     "resources": [
-    
+        {
+            "name": "Alpha Wolf Head",
+            "category": "Resources",
+            "description": "The head of a wolf, can be crafted into a deployable trophy to hang on your wall.",
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Alpha Wolf Trophy"],
+            "weight": 1
+        },
+        {
+            "name": "Aluminium Ingot",
+            "category": "Resources",
+            "description": null,
+            "ingredients": ["1 Aluminium Ore"],
+            "crafting station": "Concrete Furnace",
+            "usage": ["Aluminium Arrow", "Binoculars", "Biofuel Lamp", "Carbon Paste", "Compound Bow", "Composite Spear", "Composite Head Armor", "Composite Chest Armor", "Composite Arms Armor", "Composite Legs Armor", "Composite Feet Armor", "Fabricator", "Flashlight", "Material Processor", "Recurve Bow", "Refrigerator"],
+            "weight": 0.2
+        },
+        {
+            "name": "Aluminium Ore",
+            "category": "Resources",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Aluminium Ingot", "Aluminium Beam", "Aluminium Door", "Aluminium Floor", "Aluminium Floor Trapdoor", "Aluminium Halfpieces", "Aluminium Halfpitches", "Aluminium Ladder", "Aluminium Railing", "Aluminium Ramp", "Aluminium Roof", "Aluminium Roof Corner", "Aluminium Stairs", "Aluminium Trapdoor", "Aluminium Wall", "Aluminium Wall Angled", "Aluminium Window"],
+            "weight": 0.4
+        },
+        {
+            "name": "Animal Fat",
+            "category": "Resources",
+            "description": "The next best thing to butter.",
+            "ingredients": ["1 Raw Meat"],
+            "crafting station": "Cooking Station",
+            "usage": ["Creamed Corn", "Crispy Bacon", "Crumbed Fish Fillet", "Fish Curry", "Pastry"],
+            "weight": 0.1
+        },
+        {
+            "name": "Basic Fertilizer",
+            "category": "Resources",
+            "description": "Provides a small bonus to growth speed and crop yield",
+            "ingredients": ["10 Spoiled Plants"],
+            "crafting station": "Wood Composter",
+            "usage": ["Gunpowder"],
+            "weight": null
+        },
+        {
+            "name": "Bear Head",
+            "category": "Resources",
+            "description": "The head of a bear, can be crafted into a deployable trophy to hang on your wall.",
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Bear Trophy"],
+            "weight": 1
+        },
+        {
+            "name": "Black Jaguar Head",
+            "category": "Resources",
+            "description": "The head of a black jaguar, can be crafted into a deployable trophy to hang on your wall.",
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Black Jaguar Trophy"],
+            "weight": 1
+        },
+        {
+            "name": "Bone",
+            "category": "Resources",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Bone Arrow", "Bone Knife", "Bone Sickle" "Bone Spear", "Crushed Bone", "Longbow", "Oxidizer", "Oxygen Bladder", "Waterskin"],
+            "weight": 0.4
+        },
+        {
+            "name": "Bread Dough",
+            "category": "Resources",
+            "description": null,
+            "ingredients": ["5 Flour", "1 Yeast"],
+            "crafting station": "Kitchen Bench",
+            "usage": ["Bread", "Crumbed Fish Fillet", "Pumpkin Bread"],
+            "weight": 0.05
+        },
+        {
+            "name": "Buffalo Head",
+            "category": "Resources",
+            "description": "The head of a buffalo, can be crafted into a deployable trophy to hang on your wall.",
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Buffalo Trophy"],
+            "weight": 1
+        },
+        {
+            "name": "Carbon Fiber",
+            "category": "Resources",
+            "description": "A lightweight, flexible construction material with high tensile strength.",
+            "ingredients": ["1 Carbon Paste"],
+            "crafting station": "Concrete Furnace",
+            "usage": ["Combat Knife", "Composite Arms Armor", "Composite Chest Armor", "Composite Feet Armor", "Composite Head Armor", "Composite Legs Armor", "Compound Bow", "Electricity Tool", "Fabricator", "Heavy Air Conditioner", "Heavy Heater", "Material Processor", "Refrigerator", "Solar Panel", "Titanium Arrow", "Titanium Bolt", "Titanium Knife", "Titanium Pickaxe", "Titanium Sickle", ],
+            "weight": 0.2
+        },
+        {
+            "name": "Carbon Paste",
+            "category": "Resources",
+            "description": "A carbon-based admixture used in advanced constructions.",
+            "ingredients": ["1 Silica Ore", "1 Aluminium Ingot", "4 Organic Resin", "2 Epoxy"],
+            "crafting station": "Mortar and Pestle",
+            "usage": ["Carbon Fiber"],
+            "weight": 0.2
+        },
+        {
+            "name": "Carrot",
+            "category": "Resources",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Barbecue Carrot", "Pickled Carrot", "Roast Vegetables", "Soy Bean Stir-Fry"],
+            "weight": 0.1
+        },
+        {
+            "name": "Charcoal",
+            "category": "Resources",
+            "description": "Abundant after forest fires.",
+            "ingredients": ["1 Wood"],
+            "crafting station": "Campfire",
+            "usage": ["Anti-Parasitic Paste", "Anti-Parasitic Pill", "Anti-Parasitic Tonic", "Anti-Poison Paste", "Anti-Poison Pill", "Anti-Poison Tonic", "Antibiotic Paste", "Antibiotic Pill", "Antibiotic Tonic", "Blood Thinning Paste", "Blood Thinning Pill", "Blood Thinning Tonic", "Food Consumption Paste", "Gunpowder", "Heat Bandage", "Oxygen Buff Paste", "Oxygen Consumption Paste", "Oxygen Restoration Paste", "Water Consumption Paste"],
+            "weight": 0.1
+        },
+        {
+            "name": "Coal Ore",
+            "category": "Resources",
+            "description": "A readily combustible, energy dense ore.",
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Steel Bloom"],
+            "weight": 0.6
+        },
+        {
+            "name": "Cocoa Seed",
+            "category": "Resources",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Hot Cocoa"],
+            "weight": 0.1
+        },
+        {
+            "name": "Coffee Bean",
+            "category": "Resources",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Hot Coffee"],
+            "weight": 0.1
+        },
+        {
+            "name": "Composite Paste",
+            "category": "Resources",
+            "description": "A high grade ferro-organic precursor.",
+            "ingredients": ["2 Iron Ore", "1 Silica Ore", "1 Organic Resin", "1 Gold Ore"],
+            "crafting station": "Material Processor",
+            "usage": ["Composites"],
+            "weight": 0.25
+        },
+        {
+            "name": "Concrete Mix",
+            "category": "Resources",
+            "description": "A rudimentary, but serviceable concrete analogue.",
+            "ingredients": ["1 Tree Sap", "8 Stone", "4 Silica Ore"],
+            "crafting station": "Cement Mixer",
+            "usage": ["Concrete Beam", "Concrete Floor", "Concrete Floor Trapdoor", "Concrete Frame", "Concrete Furnace", "Concrete Halfpieces", "Concrete Halfpitches", "Concrete Ramp", "Concrete Roof", "Concrete Roof Corner", "Concrete Stairs", "Concrete Wall", "Concrete Wall Angled", "Electric Furnace", "Electric Masonry Bench", "Fabricator"],
+            "weight": 0.9
+        },
+        {
+            "name": "Copper Ingot",
+            "category": "Resources",
+            "description": null,
+            "ingredients": ["2 Copper Ore"],
+            "crafting station": "Stone Furnace",
+            "usage": ["00 Buckshot Shell", "Aluminium Arrow", "Brazier", "Carbon Arrow", "Carbon Spear", "Copper Bolt", "Dehumidifier", "Electric Furnace", "Electronics", "Fire Extinguisher", "Metal Oxite Dissolver", "Pot Belly Stove"],
+            "weight": 0.2
+        }        
     ],
     
     "tools": [
