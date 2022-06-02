@@ -1,0 +1,183 @@
+{
+    "armors": [
+        {
+            "name": "Cloth Arms Armor",
+            "category": "Armors",
+            "description": "Light and easily craftable, offering low protection and decent insulation.",
+            "flavor": null,
+            "tier": 1,
+            "crafting station": "Character",
+            "ingredients": ["80 Fiber"],
+            "weight": null
+        },
+        {
+            "name": "Cloth Chest Armor",
+            "category": "Armors",
+            "description": "Light and easily craftable, offering low protection and decent insulation.",
+            "flavor": null,
+            "tier": 1,
+            "crafting station": "Character",
+            "ingredients": ["120 Fiber"],
+            "weight": null
+        },
+        {
+            "name": "Cloth Feet Armor",
+            "category": "Armors",
+            "description": "Light and easily craftable, offering low protection and decent insulation.",
+            "flavor": null,
+            "tier": 1,
+            "crafting station": "Character",
+            "ingredients": ["80 Fiber"],
+            "weight": null
+        },
+        {
+            "name": "Cloth Head Armor",
+            "category": "Armors",
+            "description": "Light and easily craftable, offering low protection and decent insulation.",
+            "flavor": null,
+            "tier": 1,
+            "crafting station": "Character",
+            "ingredients": ["40 Fiber"],
+            "weight": null
+        },
+        {
+            "name": "Cloth Legs Armor",
+            "category": "Armors",
+            "description": "Light and easily craftable, offering low protection and decent insulation.",
+            "flavor": null,
+            "tier": 1,
+            "crafting station": "Character",
+            "ingredients": ["120 Fiber"],
+            "weight": null
+        },
+        {
+            "name": "Composite Arms Armor",
+            "category": "Armors",
+            "description": "Heavy HDP armor with unmatched impact protection and insulation.",
+            "flavor": "Employing ultra-high molecular weight thermoplastics, composite armor trades weight for extraordinary protection against physical damage and exposure.",
+            "tier": 4,
+            "crafting station": "Fabricator",
+            "ingredients": ["2 Aluminium Ingot", "8 Composites", "6 Steel Screw", "2 Carbon Fiber", "2 Refined Gold"],
+            "weight": null
+        },
+        {
+            "name": "Composite Chest Armor",
+            "category": "Armors",
+            "description": "Heavy HDP armor with unmatched impact protection and insulation.",
+            "flavor": "Employing ultra-high molecular weight thermoplastics, composite armor trades weight for extraordinary protection against physical damage and exposure.",
+            "tier": 4,
+            "crafting station": "Fabricator",
+            "ingredients": ["6 Aluminium Ingot", "24 Composites", "12 Steel Screw", "2 Carbon Fiber", "2 Refined Gold"],
+            "weight": null
+        },
+        {
+            "name": "Composite Feet Armor",
+            "category": "Armors",
+            "description": "Heavy HDP armor with unmatched impact protection and insulation.",
+            "flavor": "Employing ultra-high molecular weight thermoplastics, composite armor trades weight for extraordinary protection against physical damage and exposure.",
+            "tier": 4,
+            "crafting station": "Fabricator",
+            "ingredients": ["4 Aluminium Ingot", "12 Composites", "6 Steel Screw", "2 Carbon Fiber", "2 Refined Gold"],
+            "weight": null
+        },
+        {
+            "name": "Composite Head Armor",
+            "category": "Armors",
+            "description": "Heavy HDP armor with unmatched impact protection and insulation.",
+            "flavor": "Employing ultra-high molecular weight thermoplastics, composite armor trades weight for extraordinary protection against physical damage and exposure.",
+            "tier": 4,
+            "crafting station": "Fabricator",
+            "ingredients": ["4 Aluminium Ingot", "12 Composites", "6 Steel Screw", "2 Carbon Fiber", "2 Refined Gold"],
+            "weight": null
+        },
+        {
+            "name": "Composite Legs Armor",
+            "category": "Armors",
+            "description": "Heavy HDP armor with unmatched impact protection and insulation.",
+            "flavor": "Employing ultra-high molecular weight thermoplastics, composite armor trades weight for extraordinary protection against physical damage and exposure.",
+            "tier": 4,
+            "crafting station": "Fabricator",
+            "ingredients": ["8 Aluminium Ingot", "18 Composites", "6 Steel Screw", "2 Carbon Fiber", "2 Refined Gold"],
+            "weight": null
+        },
+        {
+            "name": "Fur Arms Armor",
+            "category": "Armors",
+            "description": "Heavy fur gloves, extremely warm with moderate physical protection.",
+            "flavor": null,
+            "tier": 2,
+            "crafting station": "Textiles Bench",
+            "ingredients": ["4 Leather", "8 Fur", "2 Rope"],
+            "weight": 1
+        },
+        {
+            "name": "Fur Chest Armor",
+            "category": "Armors",
+            "description": "An armored fur jacket, giving warmth and reasonable damage protection.",
+            "flavor": null,
+            "tier": 2,
+            "crafting station": "Textiles Bench",
+            "ingredients": ["8 Leather", "24 Fur", "6 Rope"],
+            "weight": 4
+        },
+        {
+            "name": "Fur Feet Armor",
+            "category": "Armors",
+            "description": "Heavily insulated fur boots, offering moderate physical protection.",
+            "flavor": null,
+            "tier": 2,
+            "crafting station": "Textiles Bench",
+            "ingredients": ["6 Leather", "12 Fur", "4 Rope"],
+            "weight": null
+        },
+        {
+            "name": "Fur Head Armor",
+            "category": "Armors",
+            "description": "Heavy, warm and moderately protective headgear.",
+            "flavor": null,
+            "tier": 2,
+            "crafting station": "Textiles Bench",
+            "ingredients": ["4 Leather", "12 Fur", "4 Rope"],
+            "weight": 2
+        },
+        {
+            "name": "Fur Legs Armor",
+            "category": "Armors",
+            "description": "Heavy, strengthened fur leg armor, warm and moderately protective.",
+            "flavor": null,
+            "tier": 2,
+            "crafting station": "Textiles Bench",
+            "ingredients": ["8 Leather", "18 Fur", "6 Rope"],
+            "weight": 4
+        }
+        
+    ],
+    
+    "building pieces": [
+    
+    ],
+    
+    "consumables": [
+    
+    ],
+    
+    "deployables": [
+        
+    ],
+    
+    "resources": [
+    
+    ],
+    
+    "tools": [
+        
+    ],
+    
+    "weapons": [
+    
+    ],
+    
+    "workshop": [
+    
+    ]
+}
