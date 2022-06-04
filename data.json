@@ -1342,7 +1342,7 @@
             "description": null,
             "ingredients": [],
             "crafting station": null,
-            "usage": ["Bone Arrow", "Bone Knife", "Bone Sickle" "Bone Spear", "Crushed Bone", "Longbow", "Oxidizer", "Oxygen Bladder", "Waterskin"],
+            "usage": ["Bone Arrow", "Bone Knife", "Bone Sickle", "Bone Spear", "Crushed Bone", "Longbow", "Oxidizer", "Oxygen Bladder", "Waterskin"],
             "weight": 0.4
         },
         {
@@ -1369,7 +1369,7 @@
             "description": "A lightweight, flexible construction material with high tensile strength.",
             "ingredients": ["1 Carbon Paste"],
             "crafting station": "Concrete Furnace",
-            "usage": ["Combat Knife", "Composite Arms Armor", "Composite Chest Armor", "Composite Feet Armor", "Composite Head Armor", "Composite Legs Armor", "Compound Bow", "Electricity Tool", "Fabricator", "Heavy Air Conditioner", "Heavy Heater", "Material Processor", "Refrigerator", "Solar Panel", "Titanium Arrow", "Titanium Bolt", "Titanium Knife", "Titanium Pickaxe", "Titanium Sickle", ],
+            "usage": ["Combat Knife", "Composite Arms Armor", "Composite Chest Armor", "Composite Feet Armor", "Composite Head Armor", "Composite Legs Armor", "Compound Bow", "Electricity Tool", "Fabricator", "Heavy Air Conditioner", "Heavy Heater", "Material Processor", "Refrigerator", "Solar Panel", "Titanium Arrow", "Titanium Bolt", "Titanium Knife", "Titanium Pickaxe", "Titanium Sickle"],
             "weight": 0.2
         },
         {
@@ -1452,7 +1452,682 @@
             "crafting station": "Stone Furnace",
             "usage": ["00 Buckshot Shell", "Aluminium Arrow", "Brazier", "Carbon Arrow", "Carbon Spear", "Copper Bolt", "Dehumidifier", "Electric Furnace", "Electronics", "Fire Extinguisher", "Metal Oxite Dissolver", "Pot Belly Stove"],
             "weight": 0.2
-        }        
+        },
+        {
+            "name": "Copper Nail",
+            "category": "Resources",
+            "description": "Lightweight copper fastener.",
+            "ingredients": ["1 Copper Ingot"],
+            "crafting station": "Anvil Bench",
+            "usage": ["Biofuel Stove", "Carpentry Bench", "Glassworking Bench", "Interior Wood Beam", "Interior Wood Cupboard", "Interior Wood Door", "Interior Wood Floor", "Interior Wood Floor Trapdoor", "Interior Wood Halfpieces", "Interior Wood Halfpitches", "Interior Wood Ladder", "Interior Wood Railing", "Interior Wood Ramp", "Interior Wood Stairs", "Interior Wood Trapdoor", "Interior Wood Wall", "Interior Wood Wall Angled", "Kitchen Bench", "Kitchen Storage Block", "Medium Interior Wood Crate", "Small Interior Wood Crate", "Small Wood Sign", "Trophy Bench", "Wood Bed", "Wood Chair", "Wood Cupboard", "Wood Table"],
+            "weight": 0.4
+        },
+        {
+            "name": "Copper Ore",
+            "category": "Resources",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Copper Ingot"],
+            "weight": 0.4
+        },
+        {
+            "name": "Corn",
+            "category": "Resources",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Charred Corn", "Creamed Corn", "Sweetcorn Soup", "Vegetable Pie"],
+            "weight": 0.01
+        },
+        {
+            "name": "Cougar Head",
+            "category": "Resources",
+            "description": "The head of a cougar, can be crafted into a deployable trophy to hang on your wall.",
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Cougar Trophy"],
+            "weight": 1
+        },
+        {
+            "name": "Crushed Bone",
+            "category": "Resources",
+            "description": "A calcium-rich powder.",
+            "ingredients": ["2 Bone"],
+            "crafting station": "Mortar and Pestle",
+            "usage": ["Epoxy"],
+            "weight": 0.01
+        },
+        {
+            "name": "Deer Head",
+            "category": "Resources",
+            "description": "The head of a deer, can be crafted into a deployable trophy to hang on your wall.",
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Deer Trophy"],
+            "weight": 1
+        },
+        {
+            "name": "Electronics",
+            "category": "Resources",
+            "description": null,
+            "ingredients": ["1 Refined Gold", "3 Copper Ingot", "2 Organic Resin", "2 Epoxy"],
+            "crafting station": "Machining Bench",
+            "usage": ["Biofuel Deep-Mining Drill", "Biofuel Generator", "Chemistry Bench", "Deep Mining Ore Scanner", "Dehumidifier", "Directional Worklamp", "Electric Carpentry Bench", "Electric Composter", "Electric Deep-Mining Drill", "Electric Dehumidifier", "Electric Extractor", "Electric Furnace", "Electric Masonry Bench", "Electric Radar", "Fabricator", "Flashlight", "Heavy Air Conditioner", "Heavy Heater", "Hydroponic Crop Plot", "Material Processor", "Metal Oxite Dissolver", "Omnidirectional Worklamp", "Portable Beacon", "Refrigerator", "Solar Panel", "Water Pump"],
+            "weight": null
+        },
+        {
+            "name": "Epoxy",
+            "category": "Resources",
+            "description": "A basic but strong and hard-setting organic polymer.",
+            "ingredients": ["2 Sulfur", "4 Tree Sap"],
+            "crafting station": "Mortar and Pestle",
+            "usage": ["Binoculars", "Biofuel Deep-Mining Drill", "Biofuel Lamp", "Biofuel Stove", "Carbon Paste", "Concrete Furnace", "Dehumidifier", "Electronics", "Fire Extinguisher", "Flashlight", "Glass Beam", "Glass Door", "Glass Roof", "Glass Roof Corner", "Glass Wall", "Glass Wall Angled", "Glass Window", "Glassworking Bench", "Hunter Arms Armor", "Hunter Chest Armor", "Hunter Feet Armor", "Hunter Head Armor", "Hunter Legs Armor", "Iron Cupboard", "Kitchen Bench", "Kitchen Storage Block", "Machining Bench", "Medium Iron Crate", "Metal Oxite Dissolver", "Oxygen Tank", "Potbelly Stove", "Small Iron Crate", "Steel Axe", "Steel Hammer", "Steel Knife", "Steel Pickaxe", "Thermos", "Water Sprinkler"],
+            "weight": 0.01
+        },
+        {
+            "name": "Epoxy",
+            "category": "Resources",
+            "description": "A basic but strong and hard-setting organic polymer.",
+            "ingredients": ["4 Crushed Bone"],
+            "crafting station": "Mortar and Pestle",
+            "usage": ["Binoculars", "Biofuel Deep-Mining Drill", "Biofuel Lamp", "Biofuel Stove", "Bolt Action Rifle", "Carbon Paste", "Concrete Furnace", "Dehumidifier", "Electronics", "Fire Extinguisher", "Flashlight", "Glass Beam", "Glass Door", "Glass Roof", "Glass Roof Corner", "Glass Wall", "Glass Wall Angled", "Glass Window", "Glassworking Bench", "Hunter Arms Armor", "Hunter Chest Armor", "Hunter Feet Armor", "Hunter Head Armor", "Hunter Legs Armor", "Iron Cupboard", "Kitchen Bench", "Kitchen Storage Block", "Machining Bench", "Medium Iron Crate", "Metal Oxite Dissolver", "Oxygen Tank", "Potbelly Stove", "Small Iron Crate", "Steel Axe", "Steel Hammer", "Steel Knife", "Steel Pickaxe", "Thermos", "Water Sprinkler"],
+            "weight": 0.01
+        },
+        {
+            "name": "Exotics",
+            "category": "Resources",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": [],
+            "weight": null
+        },
+        {
+            "name": "Fiber",
+            "category": "Resources",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Basic Bandage", "Bedroll", "Building Upgrade Tool", "Campfire", "Carpentry Bench", "Cloth Arms Armor", "Cloth Chest Armor", "Cloth Feet Armor", "Cloth Head Armor", "Cloth Legs Armor", "Cooking Station", "Cooling Bandage", "Crafting Bench", "Drying Rack", "Fire Whacker", "Floor Torch", "Ghillie Arms Armor", "Ghillie Chest Armor", "Ghillie Feet Armor", "Ghillie Head Armor", "Ghillie Legs Armor", "Heat Bandage", "Herbalism Bench", "Hunter Arms Armor", "Hunter Chest Armor", "Hunter Feet Armor", "Hunter Head Armor", "Hunter Legs Armor", "Leather Arms Armor", "Leather Backpack", "Leather Chest Armor", "Leather Feet Armor", "Leather Head Armor", "Leather Legs Armor", "Medium Wood Crate", "Oxidizer", "Oxygen Bladder", "Rope", "Skinning Bench", "Small Wood Crate", "Stone Arrow", "Stone Axe", "Stone Knife", "Stone Pickaxe", "Suture Kit", "Textiles Bench", "Thatch Beam", "Thatch Door", "Thatch Floor", "Thatch Floor Trapdoor", "Thatch Halfpieces", "Thatch Halfpitches", "Thatch Ladder", "Thatch Railing", "Thatch Ramp", "Thatch Roof", "Thatch Roof Corner", "Thatch Stairs", "Thatch Trapdoor", "Thatch Wall", "Thatch Wall Angled", "Thatch Window", "Waterskin", "Wood Beam", "Wood Bow", "Wood Door", "Wood Floor", "Wood Floor Trapdoor", "Wood Halfpieces", "Wood Halfpitches", "Wood Ladder", "Wood Rag Torch", "Wood Railing", "Wood Ramp", "Wood Repair Hammer", "Wood Roof", "Wood Roof Corner", "Wood Stairs", "Wood Torch", "Wood Trapdoor", "Wood Wall", "Wood Wall Angled", "Wood Window"],
+            "weight": 0.01
+        },
+        {
+            "name": "Fur",
+            "category": "Resources",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Bedroll", "Fur Arms Armor", "Fur Chest Armor", "Fur Feet Armor", "Fur Head Armor", "Fur Legs Armor", "Wood Bed"],
+            "weight": null
+        },
+        {
+            "name": "Glass",
+            "category": "Resources",
+            "description": "Despite its imperfections, a workable sheet of glass.",
+            "ingredients": ["1 Silica Ore"],
+            "crafting station": "Concrete Furnace",
+            "usage": ["Basic Ceiling Light", "Basic Wall Light", "Beer Bottle", "Binoculars", "Biofuel Generator", "Biofuel Lamp", "Biofuel Radar", "Dehumidifier", "Electric Furnace", "Electric Radar", "Flashlight", "Glass Door", "Glass Jar", "Glass Roof", "Glass Roof Corner", "Glass Wall", "Glass Wall Angled", "Glass Window", "Heavy Glass Window", "Lantern", "Metal Oxite Dissolver", "Portable Beacon", "Thermos", "Wine Bottle"],
+            "weight": 0.25
+        },
+        {
+            "name": "Gold Ore",
+            "category": "Resources",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Composite Paste", "Refined Gold"],
+            "weight": 0.4
+        },
+        {
+            "name": "Gorse Flower",
+            "category": "Resources",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Gorse Tea"],
+            "weight": null
+        },
+        {
+            "name": "Growth Fertilizer",
+            "category": "Resources",
+            "description": "Helps your crops to grow faster",
+            "ingredients": ["1 Silica Ore", "5 Basic Fertilizer"],
+            "crafting station": "Chemistry Bench",
+            "usage": [],
+            "weight": null
+        },
+        {
+            "name": "Gunpowder",
+            "category": "Resources",
+            "description": "Creating and solving problems for over one thousand years.",
+            "ingredients": ["1 Sulfur", "3 Charcoal"],
+            "crafting station": "Mortar and Pestle",
+            "usage": ["00 Buckshot Shell", "Fire Arrow", "Frag Grenade", "Incendiary Rifle Round", "Pistol Round", "Rifle Round"],
+            "weight": null
+        },
+        {
+            "name": "Gunpowder",
+            "category": "Resources",
+            "description": "Creating and solving problems for over one thousand years.",
+            "ingredients": ["1 Basic Fertilizer", "1 Charcoal"],
+            "crafting station": "Mortar and Pestle",
+            "usage": ["00 Buckshot Shell", "Fire Arrow", "Frag Grenade", "Incendiary Rifle Round", "Pistol Round", "Rifle Round"],
+            "weight": null
+        },
+        {
+            "name": "High-Quality Fertilizer",
+            "category": "Resources",
+            "description": "Increases the yield of your crops",
+            "ingredients": ["1 Sulfur", "5 Basic Fertilizer"],
+            "crafting station": "Chemistry Bench",
+            "usage": [],
+            "weight": null
+        },
+        {
+            "name": "Ice",
+            "category": "Resources",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": [],
+            "weight": null
+        },
+        {
+            "name": "Iron Ingot",
+            "category": "Resources",
+            "description": null,
+            "ingredients": ["2 Iron Ore"],
+            "crafting station": "Stone Furnace",
+            "usage": ["Anvil Bench", "Basic Ceiling Light", "Basic Wall Light", "Biofuel Can", "Biofuel Extractor", "Biofuel Radar", "Brazier", "Cave Scanner", "Cement Mixer", "Composite Spear", "Concrete Furnace", "Cooking Station", "Crossbow", "Electric Extractor", "Frag Grenade", "Glass Beam", "Glass Door", "Glass Jar", "Glass Roof", "Glass Roof Corner", "Glass Wall", "Glass Wall Angled", "Glassworking Bench", "Heavy Glass Window", "Heavy Trapdoor", "Ice Box", "Incendiary Rifle Round", "Iron Axe", "Iron Crop Plot", "Iron Cupboard", "Iron Hammer", "Iron Knife", "Iron Nail", "Iron Pickaxe", "Iron Sickle", "Kitchen Bench", "Kitchen Storage Block", "Lantern", "Machete", "Machining Bench", "Medium Iron Crate", "Pistol Round", "Potbelly Stove", "Reinforced Door", "Reinforced Ladder", "Reinforced Railing", "Reinforced Trapdoor", "Reinforced Window", "Rifle Round", "Shovel", "Small Iron Crate", "Smoke Grenade", "Steel Bloom", "Taxidermy Knife", "Trophy Bench", "Wall Torch"],
+            "weight": 0.2
+        },
+        {
+            "name": "Iron Nail",
+            "category": "Resources",
+            "description": "An inter-fibrous friction fastener.",
+            "ingredients": ["1 Iron Ingot"],
+            "crafting station": "Anvil Bench",
+            "usage": ["Iron Axe", "Iron Knife", "Masonry Bench", "Reinforced Door", "Reinforced Ladder", "Reinforced Railing", "Reinforced Trapdoor", "Reinforced Window", "Stone Beam", "Stone Floor", "Stone Floor Trapdoor", "Stone Frame", "Stone Halfpieces", "Stone Halfpitches", "Stone Ramp", "Stone Roof", "Stone Roof Corner", "Stone Stairs", "Stone Wall", "Stone Wall Angled"],
+            "weight": null
+        },
+        {
+            "name": "Iron Ore",
+            "category": "Resources",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Iron Ingot", "Steel Bloom"],
+            "weight": 0.4
+        },
+        {
+            "name": "Jaguar Head",
+            "category": "Resources",
+            "description": "The head of a jaguar, can be crafted into a deployable trophy to hang on your wall.",
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Jaguar Trophy"],
+            "weight": 1
+        },
+        {
+            "name": "Leather",
+            "category": "Resources",
+            "description": "Tanned and stretched animal skin.",
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Bone Knife", "Bone Spear", "Caveworm Bow", "Caveworm Knife", "Caveworm Spear", "Crafting Bench", "Crossbow", "Fur Arms Armor", "Fur Chest Armor", "Fur Feet Armor", "Fur Head Armor", "Fur Legs Armor", "Hunter Arms Armor", "Hunter Chest Armor", "Hunter Feet Armor", "Hunter Head Armor", "Hunter Legs Armor", "Hunting Rifle", "Ice Box", "Interior Wood Cupboard", "Iron Axe", "Iron Knife", "Iron Spear", "Leather Arms Armor", "Leather Chest Armor", "Leather Feet Armor", "Leather Head Armor", "Leather Legs Armor", "Longbow", "Masonry Bench", "Oxidizer", "Oxite Dissolver", "Pistol", "Platinum Knife", "Platinum Spear", "Polar Bear Arms Armor", "Polar Bear Chest Armor", "Polar Bear Feet Armor", "Polar Bear Head Armor", "Polar Bear Legs Armor", "Rope", "Sandworm Bow", "Sandworm Knife", "Sandworm Spear", "Shotgun", "Skinning Bench", "Stone Beam", "Stone Floor", "Stone Floor Trapdoor", "Stone Frame", "Stone Furnace", "Stone Halfpieces", "Stone Halfpitches", "Stone Ramp", "Stone Roof", "Stone Roof Corner", "Stone Stairs", "Stone Wall", "Stone Wall Angled", "Suture Kit", "Titanium Axe", "Titanium Spear", "Wall Torch", "Waterskin", "Wood Cupboard"],
+            "weight": 0.01
+        },
+        {
+            "name": "Lily",
+            "category": "Resources",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Blood Thinning Paste", "Blood Thinning Tonic", "Food Consumption Paste", "Health Buff Paste", "Health Regeneration Paste", "Health Restoration Paste"],
+            "weight": null
+        },
+        {
+            "name": "Mammoth Head",
+            "category": "Resources",
+            "description": "The head of a mammoth, can be crafted into a deployable trophy to hang on your wall.",
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Mammoth Trophy"],
+            "weight": 1
+        },
+        {
+            "name": "Organic Resin",
+            "category": "Resources",
+            "description": "A natural and highly flexible bonding agent.",
+            "ingredients": ["1 Wood", "1 Oxite"],
+            "crafting station": "Mortar and Pestle",
+            "usage": ["Carbon Paste", "Composite Paste", "Electronics"],
+            "weight": 0.01
+        },
+        {
+            "name": "Oxite",
+            "category": "Resources",
+            "description": "Can be refined into breathable oxygen.",
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Cooling Bandage", "Fire Extinguisher", "Heat Bandage", "Organic Resin"],
+            "weight": 0.4
+        },
+        {
+            "name": "Pastry",
+            "category": "Resources",
+            "description": "A simple but satisfying shortcrust pastry.",
+            "ingredients": ["1 Animal Fat", "1 Flour"],
+            "crafting station": "Kitchen Bench",
+            "usage": ["Fruit Pie", "Meat Pie", "Vegetable Pie"],
+            "weight": null
+        },
+        {
+            "name": "Platinum Ingot",
+            "category": "Resources",
+            "description": null,
+            "ingredients": ["5 Platinum Ore"],
+            "crafting station": "Concrete Furnace",
+            "usage": ["Platinum Axe", "Platinum Bolt", "Platinum Hammer", "Platinum Knife", "Platinum Pickaxe", "Platinum Sickle", "Platinum Spear"],
+            "weight": 0.2
+        },
+        {
+            "name": "Platinum Ore",
+            "category": "Resources",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Platinum Ingot", "Composite Paste"],
+            "weight": 0.4
+        },
+        {
+            "name": "Poison Paste",
+            "category": "Resources",
+            "description": "A deadly poison made from spoiled meat, do not eat!",
+            "ingredients": ["2 Spoiled Meat", "1 Sulfur"],
+            "crafting station": "Mortar and Pestle",
+            "usage": ["Anti-Poison Pill", "Anti-Poison Tonic", "Poison Arrow"],
+            "weight": null
+        },
+        {
+            "name": "Polar Bear Head",
+            "category": "Resources",
+            "description": "The head of a polar bear, can be crafted into a deployable trophy to hang on your wall.",
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Polar Bear Trophy"],
+            "weight": 1
+        },
+        {
+            "name": "Polar Bear Pelt",
+            "category": "Resources",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Polar Bear Arms Armor", "Polar Bear Chest Armor", "Polar Bear Feet Armor", "Polar Bear Head Armor", "Polar Bear Legs Armor"],
+            "weight": 1
+        },
+        {
+            "name": "Pumpkin",
+            "category": "Resources",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Grilled Pumpkin", "Meat Pie", "Pumpkin Bread", "Roast Vegetables", "Wild Salad"],
+            "weight": 0.1
+        },
+        {
+            "name": "Raw Bacon",
+            "category": "Resources",
+            "description": "Dropped by Boars.",
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Cooked Bacon", "Crispy Bacon"],
+            "weight": 0.1
+        },
+        {
+            "name": "Raw Fatty T-Bone",
+            "category": "Resources",
+            "description": "Dropped by Boars.",
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Cooked Fatty T-Bone", "Dried Fatty T-Bone"],
+            "weight": 0.05
+        },
+        {
+            "name": "Raw Fish",
+            "category": "Resources",
+            "description": "Will nourish, but better if cooked.",
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Cooked Fish", "Crumbed Fish Fillet", "Fish Curry"],
+            "weight": 0.05
+        },
+        {
+            "name": "Raw Game Meat",
+            "category": "Resources",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Cooked Game Meat", "Dried Game Meat"],
+            "weight": 0.05
+        },
+        {
+            "name": "Raw Giant Steak",
+            "category": "Resources",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Cooked Giant Steak", "Dried Giant Steak"],
+            "weight": 0.05
+        },
+        {
+            "name": "Raw Meat",
+            "category": "Resources",
+            "description": "Meat from a recently killed animal, worth cooking first.",
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Animal Fat", "Cooked Meat", "Meat Pie", "Stew"],
+            "weight": 0.05
+        },
+        {
+            "name": "Raw Soft Meat",
+            "category": "Resources",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Cooked Soft Meat", "Dried Soft Meat"],
+            "weight": 0.05
+        },
+        {
+            "name": "Raw Soft Meat",
+            "category": "Resources",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Cooked Stringy Meat", "Dried Stringy Meat"],
+            "weight": 0.05
+        },
+        {
+            "name": "Raw White Meat",
+            "category": "Resources",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Cooked White Meat", "Dried White Meat"],
+            "weight": 0.05
+        },
+        {
+            "name": "Reed Flower",
+            "category": "Resources",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Anti-Parasitic Paste", "Anti-Parasitic Tonic", "Stamina Buff Paste", "Stamina Consumption Paste", "Stamina Regeneration Paste", "Stamina Restoration Paste", "Water Consumption Paste", "Wine"],
+            "weight": 0.01
+        },
+        {
+            "name": "Refined Gold",
+            "category": "Resources",
+            "description": null,
+            "ingredients": ["2 Gold Ore"],
+            "crafting station": "Concrete Furnace",
+            "usage": ["Biofuel Extractor", "Biofuel Radar", "Cave Scanner", "Electricity Tool", "Electronics"],
+            "weight": 0.2
+        },
+        {
+            "name": "Refined Wood",
+            "category": "Resources",
+            "description": "Processed, high quality lumber for construction.",
+            "ingredients": ["1 Wood"],
+            "crafting station": "Carpentry Bench",
+            "usage": ["Biofuel Stove", "Interior Wood Beam", "Interior Wood Door", "Interior Wood Floor", "Interior Wood Floor Trapdoor", "Interior Wood Halfpieces", "Interior Wood Halfpitches", "Interior Wood Ladder", "Interior Wood Railing", "Interior Wood Ramp", "Interior Wood Stairs", "Interior Wood Trapdoor", "Interior Wood Wall", "Interior Wood Wall Angled", "Kitchen Bench", "Kitchen Storage Block"],
+            "weight": 0.075
+        },
+        {
+            "name": "Rope",
+            "category": "Resources",
+            "description": "Remains one of humanity's greatest inventions.",
+            "ingredients": ["12 Fiber"],
+            "crafting station": "Crafting Bench",
+            "usage": ["Binoculars", "Carpentry Bench", "Cement Mixer", "Concrete Furnace", "Fur Arms Armor", "Fur Chest Armor", "Fur Feet Armor", "Fur Head Armor", "Fur Legs Armor", "Ghillie Arms Armor", "Ghillie Chest Armor", "Ghillie Feet Armor", "Ghillie Head Armor", "Ghillie Legs Armor", "Glassworking Bench", "Hunter Arms Armor", "Hunter Chest Armor", "Hunter Feet Armor", "Hunter Head Armor", "Hunter Legs Armor", "Machining Bench", "Masonry Bench", "Polar Bear Arms Armor", "Polar Bear Chest Armor", "Polar Bear Feet Armor", "Polar Bear Head Armor", "Polar Bear Legs Armor", "Small Wood Sign", "Splint", "Trophy Bench"],
+            "weight": 0.01
+        },
+        {
+            "name": "Rope",
+            "category": "Resources",
+            "description": "Remains one of humanity's greatest inventions.",
+            "ingredients": ["5 Leather"],
+            "crafting station": "Textiles Bench",
+            "usage": ["Binoculars", "Carpentry Bench", "Cement Mixer", "Concrete Furnace", "Fur Arms Armor", "Fur Chest Armor", "Fur Feet Armor", "Fur Head Armor", "Fur Legs Armor", "Ghillie Arms Armor", "Ghillie Chest Armor", "Ghillie Feet Armor", "Ghillie Head Armor", "Ghillie Legs Armor", "Glassworking Bench", "Hunter Arms Armor", "Hunter Chest Armor", "Hunter Feet Armor", "Hunter Head Armor", "Hunter Legs Armor", "Machining Bench", "Masonry Bench", "Polar Bear Arms Armor", "Polar Bear Chest Armor", "Polar Bear Feet Armor", "Polar Bear Head Armor", "Polar Bear Legs Armor", "Splint", "Trophy Bench"],
+            "weight": 0.01
+        },
+        {
+            "name": "Sandworm Scale",
+            "category": "Resources",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Sandworm Arrow", "Sandworm Bow", "Sandworm Spear"],
+            "weight": null
+        },
+        {
+            "name": "Silica Ore",
+            "category": "Resources",
+            "description": "A key ingredient in concrete, glass and many other materials.",
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Carbon Paste", "Composite Paste", "Concrete Mix", "Glass", "Growth Fertilizer", "Mortar and Pestle"],
+            "weight": 0.4
+        },
+        {
+            "name": "Snow Leopard Head",
+            "category": "Resources",
+            "description": "The head of a snow leopard, can be crafted into a deployable trophy to hang on your wall.",
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Snow Leopard Trophy"],
+            "weight": 1
+        },
+        {
+            "name": "Soy Bean",
+            "category": "Resources",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Fish Curry", "Soy Bean Stir-Fry", "Vegetable Pie"],
+            "weight": null
+        },
+        {
+            "name": "Spoiled Meat",
+            "category": "Resources",
+            "description": "Animal flesh, considerably past its best-by date.",
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Anti-Poison Paste", "Poison Paste"],
+            "weight": null
+        },
+        {
+            "name": "Spoiled Plants",
+            "category": "Resources",
+            "description": "This produce is certainly past it's best.",
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Basic Fertilizer", "Wood Composter"],
+            "weight": null
+        },
+        {
+            "name": "Sponge",
+            "category": "Resources",
+            "description": "A useful herbal ingredient, and holds a small amount of water.",
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Food Consumption Paste", "Oxygen Buff Paste", "Oxygen Consumption Paste", "Oxygen Restoration Paste", "Water Consumption Paste"],
+            "weight": 0.1
+        },
+        {
+            "name": "Squash",
+            "category": "Resources",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Roast Squash", "Roast Vegetables", "Vegetable Pie", "Wild Salad"],
+            "weight": 0.1
+        },
+        {
+            "name": "Steel Bloom",
+            "category": "Resources",
+            "description": "A precursor mixture of iron ore and coal.",
+            "ingredients": ["6 Iron Ore", "1 Coal Ore"],
+            "crafting station": "Mortar and Pestle",
+            "usage": ["Steel Ingot"],
+            "weight": null
+        },
+        {
+            "name": "Steel Bloom",
+            "category": "Resources",
+            "description": "A precursor mixture of iron ore and coal.",
+            "ingredients": ["3 Iron Ingot", "1 Coal Ore"],
+            "crafting station": "Mortar and Pestle",
+            "usage": ["Steel Ingot"],
+            "weight": null
+        },
+        {
+            "name": "Steel Ingot",
+            "category": "Resources",
+            "description": null,
+            "ingredients": ["1 Steel Bloom"],
+            "crafting station": "Concrete Furnace",
+            "usage": ["Biofuel Deep-Mining Drill", "Biofuel Generator", "Biofuel Stove", "Bolt Action Rifle", "Canteen", "Chemistry Bench", "Combat Knife", "Deep Mining Ore Scanner", "Dehumidifier", "Electric Carpentry Bench", "Electric Composter", "Electric Furnace", "Electric Masonry Bench", "Electric Radar", "Fabricator", "Fire Extinguisher", "Hydroponic Crop Plot", "Metal Oxite Dissolver", "Oxygen Tank", "Pistol", "Recurve Bow", "Shotgun", "Steel Axe", "Steel Bolt", "Steel Hammer", "Steel Knife", "Steel Pickaxe", "Steel Rebar", "Steel Screw", "Steel Spear", "Thermos", "Water Pump"],
+            "weight": 0.2
+        },
+        {
+            "name": "Steel Rebar",
+            "category": "Resources",
+            "description": "Heavy, ribbed steel wire for reinforcing concrete.",
+            "ingredients": ["1 Steel Ingot"],
+            "crafting station": "Machining Bench",
+            "usage": ["Concrete Beam", "Concrete Floor", "Concrete Floor Trapdoor", "Concrete Frame", "Concrete Halfpieces", "Concrete Halfpitches", "Concrete Ramp", "Concrete Roof", "Concrete Roof Corner", "Concrete Stairs", "Concrete Wall", "Concrete Wall Angled"],
+            "weight": 0.002
+        },
+        {
+            "name": "Steel Screw",
+            "category": "Resources",
+            "description": "Heavy-duty, highly durable fasteners.",
+            "ingredients": ["1 Steel Ingot"],
+            "crafting station": "Machining Bench",
+            "usage": ["Aluminium Beam", "Aluminium Door", "Aluminium Floor", "Aluminium Floor Trapdoor", "Aluminium Halfpieces", "Aluminium Halfpitches", "Aluminium Ladder", "Aluminium Railing", "Aluminium Ramp", "Aluminium Roof", "Aluminium Roof Corner", "Aluminium Stairs", "Aluminium Trapdoor", "Aluminium Wall", "Aluminium Wall Angled", "Aluminium Window", "Biofuel Composter", "Biofuel Stove", "Bolt Action Rifle", "Combat Knife", "Compound Bow", "Concrete Beam", "Concrete Floor", "Concrete Floor Trapdoor", "Concrete Frame", "Concrete Halfpieces", "Concrete Halfpitches", "Concrete Railing", "Concrete Ramp", "Concrete Roof", "Concrete Roof Corner", "Concrete Stairs", "Concrete Wall", "Concrete Wall Angled", "Deep Mining Ore Scanner", "Electric Carpentry Bench", "Electric Composter", "Electric Deep-Mining Drill", "Electric Dehumidifier", "Electric Furnace", "Electric Masonry Bench", "Electric Radar", "Fabricator", "Heavy Air Conditioner", "Heavy Heater", "Heavy Trapdoor", "Hydroponic Crop Plot", "Machete", "Material Processor", "Pistol", "Platinum Hammer", "Portable Beacon", "Recurve Bow", "Refrigerator", "Shotgun", "Solar Panel", "Steel Axe", "Steel Hammer", "Steel Knife", "Titanium Hammer", "Titanium Knife", "Titanium Pickaxe", "Titanium Sickle", "Water Pump"],
+            "weight": 0.01
+        },
+        {
+            "name": "Stick",
+            "category": "Resources",
+            "description": "Small branches, easily fashioned into basic tools.",
+            "ingredients": ["1 Wood"],
+            "crafting station": "Character",
+            "usage": ["Alpha Wolf Trophy", "Bear Trophy", "Bedroll", "Black Jaguar Trophy", "Bone Arrow", "Buffalo Trophy", "Building Upgrade Tool", "Campfire", "Caveworm Arrow", "Cougar Trophy", "Cooking Station", "Deer Trophy", "Drying Rack", "Fire Whacker", "Flint Arrow", "Floor Torch", "Ghillie Arms Armor", "Ghillie Chest Armor", "Ghillie Feet Armor", "Ghillie Head Armor", "Ghillie Legs Armor", "Herbalism Bench", "Jaguar Trophy", "Mammoth Trophy", "Oxidizer", "Polar Bear Trophy", "Rain Reservoir", "Sandworm Arrow", "Scorpion Pincer Trap", "Snow Leopard Trophy", "Stone Arrow", "Stone Axe", "Stone Furnace", "Stone Knife", "Stone Pickaxe", "Textiles Bench", "Wood Bow", "Wood Rag Torch", "Wood Repair Hammer", "Wood Spear", "Wood Torch"],
+            "weight": 0.01
+        },
+        {
+            "name": "Stone",
+            "category": "Resources",
+            "description": "Chunks of sedimentary rock, easily worked.",
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Anvil Bench", "Building Upgrade Tool", "Campfire", "Cement Mixer", "Concrete Mix", "Cooking Station", "Crafting Bench", "Fire Whacker", "Firepit", "Fireplace", "Herbalism Bench", "Machining Bench", "Mortar and Pestle", "Rain Reservoir", "Scorpion Pincer Trap", "Stone Beam", "Stone Floor", "Stone Floor Trapdoor", "Stone Frame", "Stone Furnace", "Stone Halfpieces", "Stone Halfpitches", "Stone Pile", "Stone Ramp", "Stone Roof", "Stone Roof Corner", "Stone Stairs", "Stone Wall", "Stone Wall Angled", "Textiles Bench", "Smoke Grenade", "Stone Axe", "Stone Knife", "Stone Pickaxe", "Wood Repair Hammer"],
+            "weight": 0.3
+        },
+        {
+            "name": "Sulfur",
+            "category": "Resources",
+            "description": "A common, flammable ingredient for torches and gunpowder.",
+            "ingredients": [],
+            "crafting station": "Mortar and Pestle",
+            "usage": ["Epoxy", "Fire Extinguisher", "Flare Arrow", "Floor Torch", "Gunpowder", "Iron Crop Plot", "Poison Paste", "Wall Torch", "Wood Crop Plot", "Wood Torch"],
+            "weight": 0.4
+        },
+        {
+            "name": "Tea",
+            "category": "Resources",
+            "description": null,
+            "ingredients": [],
+            "crafting station": "Mortar and Pestle",
+            "usage": ["Hot Tea"],
+            "weight": 0.1
+        },
+        {
+            "name": "Titanium Ingot",
+            "category": "Resources",
+            "description": null,
+            "ingredients": ["5 Titanium Ore"],
+            "crafting station": "Concrete Furnace",
+            "usage": ["Hunting Rifle", "Material Processor", "Titanium Arrow", "Titanium Axe", "Titanium Bolt", "Titanium Knife", "Titanium Pickaxe", "Titanium Sickle", "Titanium Spear"],
+            "weight": null
+        },
+        {
+            "name": "Titanium Ore",
+            "category": "Resources",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Titanium Ingot"],
+            "weight": 0.4
+        },
+        {
+            "name": "Tree Sap",
+            "category": "Resources",
+            "description": "A natural adhesive used in concrete and epoxy.",
+            "ingredients": ["4 Stick"],
+            "crafting station": "Mortar and Pestle",
+            "usage": ["Concrete Mix", "Epoxy"],
+            "weight": 0.01
+        },
+        {
+            "name": "Watermelon",
+            "category": "Resources",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Fruit Pie", "Fruit Salad"],
+            "weight": 0.1
+        },
+        {
+            "name": "Wheat",
+            "category": "Resources",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Beer", "Flour", "Health Buff Paste", "Health Restoration Paste", "Stamina Buff Paste", "Stamina Restoration Paste"],
+            "weight": null
+        },
+        {
+            "name": "Wild Berry",
+            "category": "Resources",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Berry Jam", "Fruit Pie", "Fruit Salad", "Wine"],
+            "weight": 0.001
+        },
+        {
+            "name": "Wood",
+            "category": "Resources",
+            "description": "Roughly cut wooden timber, ready for the crafting bench.",
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Alpha Wolf Trophy", "Aluminium Beam", "Aluminium Door", "Aluminium Floor", "Aluminium Floor Trapdoor", "Aluminium Halfpieces", "Aluminium Halfpitches", "Aluminium Ladder", "Aluminium Railing", "Aluminium Ramp", "Aluminium Roof", "Aluminium Roof Corner", "Aluminium Stairs", "Aluminium Trapdoor", "Aluminium Wall", "Aluminium Wall Angled", "Aluminium Window", "Anvil Bench", "Bear Trophy", "Black Jaguar Trophy", "Bolt Action Rifle", "Bone Knife", "Bone Sickle", "Bone Spear", "Buffalo Trophy", "Caveworm Bow", "Caveworm Knife", "Caveworm Spear", "Cement Mixer", "Chemistry Bench", "Cougar Trophy", "Crafting Bench", "Crossbow", "Deer Trophy", "Drying Rack", "Firepit", "Fireplace", "Glassworking Bench", "Herbalism Bench", "Hunting Rifle", "Ice Box", "Iron Axe", "Iron Hammer", "Iron Knife", "Iron Pickaxe", "Iron Sickle", "Iron Spear", "Jaguar Trophy", "Leather Curtain Door", "Leather Curtain Window", "Longbow", "Machete", "Machining Bench", "Mammoth Trophy", "Masonry Bench", "Medium Wood Crate", "Medium Wood Hedgehog", "Organic Resin", "Oxite Dissolver", "Pistol", "Platinum Axe", "Platinum Hammer", "Platinum Knife", "Platinum Pickaxe", "Platinum Sickle", "Platinum Spear", "Polar Bear Trophy", "Rain Reservoir", "Refined Wood", "Reinforced Door", "Reinforced Ladder", "Reinforced Railing", "Reinforced Trapdoor", "Reinforced Window", "Sandworm Knife", "Shotgun", "Shovel", "Skinning Bench", "Small Wood Crate", "Snow Leopard Trophy", "Steel Axe", "Steel Hammer", "Steel Knife", "Steel Pickaxe", "Steel Spear", "Stone Beam", "Stone Floor", "Stone Floor Trapdoor", "Stone Frame", "Stone Furnace", "Stone Halfpieces", "Stone Halfpitches", "Stone Ramp", "Stone Roof", "Stone Roof Corner", "Stone Stairs", "Stone Wall", "Stone Wall Angled", "Taxidermy Knife", "Textiles Bench", "Titanium Axe", "Titanium Spear", "Trophy Bench", "Wall Torch", "Wood Beam", "Wood Composter", "Wood Crop Plot", "Wood Cupboard", "Wood Door", "Wood Floor", "Wood Floor Trapdoor", "Wood Halfpieces", "Wood Halfpitches", "Wood Ladder", "Wood Pile", "Wood Railing", "Wood Ramp", "Wood Roof", "Wood Roof Corner", "Wood Stairs", "Wood Trapdoor", "Wood Wall", "Wood Wall Angled", "Wood Window"],
+            "weight": 0.15
+        },
+        {
+            "name": "Yeast",
+            "category": "Resources",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Antibiotic Paste", "Antibiotic Tonic", "Beer", "Bread Dough"],
+            "weight": null
+        }
     ],
     
     "tools": [
