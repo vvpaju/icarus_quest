@@ -1265,7 +1265,141 @@
     ],
     
     "consumables": [
-    
+        {
+            "name": "Carrot",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Barbecue Carrot", "Pickled Carrot", "Roast Vegetables", "Soy Bean Stir-Fry"],
+            "weight": 0.1
+        },
+        {
+            "name": "Corn",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Charred Corn", "Creamed Corn", "Sweetcorn Soup", "Vegetable Pie"],
+            "weight": 0.01
+        },
+        {
+            "name": "Oxite",
+            "category": "Consumables",
+            "description": "Can be refined into breathable oxygen.",
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Cooling Bandage", "Fire Extinguisher", "Heat Bandage", "Organic Resin"],
+            "weight": 0.4
+        },
+        {
+            "name": "Pumpkin",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Grilled Pumpkin", "Meat Pie", "Pumpkin Bread", "Roast Vegetables", "Wild Salad"],
+            "weight": 0.1
+        },
+        {
+            "name": "Raw Bacon",
+            "category": "Consumables",
+            "description": "Dropped by Boars.",
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Cooked Bacon", "Crispy Bacon"],
+            "weight": 0.1
+        },
+        {
+            "name": "Raw Fatty T-Bone",
+            "category": "Consumables",
+            "description": "Dropped by Boars.",
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Cooked Fatty T-Bone", "Dried Fatty T-Bone"],
+            "weight": 0.05
+        },
+        {
+            "name": "Raw Fish",
+            "category": "Consumables",
+            "description": "Will nourish, but better if cooked.",
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Cooked Fish", "Crumbed Fish Fillet", "Fish Curry"],
+            "weight": 0.05
+        },
+        {
+            "name": "Raw Game Meat",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Cooked Game Meat", "Dried Game Meat"],
+            "weight": 0.05
+        },
+        {
+            "name": "Raw Giant Steak",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Cooked Giant Steak", "Dried Giant Steak"],
+            "weight": 0.05
+        },
+        {
+            "name": "Raw Meat",
+            "category": "Consumables",
+            "description": "Meat from a recently killed animal, worth cooking first.",
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Animal Fat", "Cooked Meat", "Meat Pie", "Stew"],
+            "weight": 0.05
+        },
+        {
+            "name": "Raw Soft Meat",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Cooked Soft Meat", "Dried Soft Meat"],
+            "weight": 0.05
+        },
+        {
+            "name": "Raw Soft Meat",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Cooked Stringy Meat", "Dried Stringy Meat"],
+            "weight": 0.05
+        },
+        {
+            "name": "Raw White Meat",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Cooked White Meat", "Dried White Meat"],
+            "weight": 0.05
+        },
+        {
+            "name": "Soy Bean",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Fish Curry", "Soy Bean Stir-Fry", "Vegetable Pie"],
+            "weight": null
+        },
+        {
+            "name": "Watermelon",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Fruit Pie", "Fruit Salad"],
+            "weight": 0.1
+        }        
     ],
     
     "deployables": [
@@ -1382,15 +1516,6 @@
             "weight": 0.2
         },
         {
-            "name": "Carrot",
-            "category": "Resources",
-            "description": null,
-            "ingredients": [],
-            "crafting station": null,
-            "usage": ["Barbecue Carrot", "Pickled Carrot", "Roast Vegetables", "Soy Bean Stir-Fry"],
-            "weight": 0.1
-        },
-        {
             "name": "Charcoal",
             "category": "Resources",
             "description": "Abundant after forest fires.",
@@ -1470,15 +1595,6 @@
             "crafting station": null,
             "usage": ["Copper Ingot"],
             "weight": 0.4
-        },
-        {
-            "name": "Corn",
-            "category": "Resources",
-            "description": null,
-            "ingredients": [],
-            "crafting station": null,
-            "usage": ["Charred Corn", "Creamed Corn", "Sweetcorn Soup", "Vegetable Pie"],
-            "weight": 0.01
         },
         {
             "name": "Cougar Head",
@@ -1706,15 +1822,6 @@
             "weight": 0.01
         },
         {
-            "name": "Oxite",
-            "category": "Resources",
-            "description": "Can be refined into breathable oxygen.",
-            "ingredients": [],
-            "crafting station": null,
-            "usage": ["Cooling Bandage", "Fire Extinguisher", "Heat Bandage", "Organic Resin"],
-            "weight": 0.4
-        },
-        {
             "name": "Pastry",
             "category": "Resources",
             "description": "A simple but satisfying shortcrust pastry.",
@@ -1767,96 +1874,6 @@
             "crafting station": null,
             "usage": ["Polar Bear Arms Armor", "Polar Bear Chest Armor", "Polar Bear Feet Armor", "Polar Bear Head Armor", "Polar Bear Legs Armor"],
             "weight": 1
-        },
-        {
-            "name": "Pumpkin",
-            "category": "Resources",
-            "description": null,
-            "ingredients": [],
-            "crafting station": null,
-            "usage": ["Grilled Pumpkin", "Meat Pie", "Pumpkin Bread", "Roast Vegetables", "Wild Salad"],
-            "weight": 0.1
-        },
-        {
-            "name": "Raw Bacon",
-            "category": "Resources",
-            "description": "Dropped by Boars.",
-            "ingredients": [],
-            "crafting station": null,
-            "usage": ["Cooked Bacon", "Crispy Bacon"],
-            "weight": 0.1
-        },
-        {
-            "name": "Raw Fatty T-Bone",
-            "category": "Resources",
-            "description": "Dropped by Boars.",
-            "ingredients": [],
-            "crafting station": null,
-            "usage": ["Cooked Fatty T-Bone", "Dried Fatty T-Bone"],
-            "weight": 0.05
-        },
-        {
-            "name": "Raw Fish",
-            "category": "Resources",
-            "description": "Will nourish, but better if cooked.",
-            "ingredients": [],
-            "crafting station": null,
-            "usage": ["Cooked Fish", "Crumbed Fish Fillet", "Fish Curry"],
-            "weight": 0.05
-        },
-        {
-            "name": "Raw Game Meat",
-            "category": "Resources",
-            "description": null,
-            "ingredients": [],
-            "crafting station": null,
-            "usage": ["Cooked Game Meat", "Dried Game Meat"],
-            "weight": 0.05
-        },
-        {
-            "name": "Raw Giant Steak",
-            "category": "Resources",
-            "description": null,
-            "ingredients": [],
-            "crafting station": null,
-            "usage": ["Cooked Giant Steak", "Dried Giant Steak"],
-            "weight": 0.05
-        },
-        {
-            "name": "Raw Meat",
-            "category": "Resources",
-            "description": "Meat from a recently killed animal, worth cooking first.",
-            "ingredients": [],
-            "crafting station": null,
-            "usage": ["Animal Fat", "Cooked Meat", "Meat Pie", "Stew"],
-            "weight": 0.05
-        },
-        {
-            "name": "Raw Soft Meat",
-            "category": "Resources",
-            "description": null,
-            "ingredients": [],
-            "crafting station": null,
-            "usage": ["Cooked Soft Meat", "Dried Soft Meat"],
-            "weight": 0.05
-        },
-        {
-            "name": "Raw Soft Meat",
-            "category": "Resources",
-            "description": null,
-            "ingredients": [],
-            "crafting station": null,
-            "usage": ["Cooked Stringy Meat", "Dried Stringy Meat"],
-            "weight": 0.05
-        },
-        {
-            "name": "Raw White Meat",
-            "category": "Resources",
-            "description": null,
-            "ingredients": [],
-            "crafting station": null,
-            "usage": ["Cooked White Meat", "Dried White Meat"],
-            "weight": 0.05
         },
         {
             "name": "Reed Flower",
@@ -1929,15 +1946,6 @@
             "crafting station": null,
             "usage": ["Snow Leopard Trophy"],
             "weight": 1
-        },
-        {
-            "name": "Soy Bean",
-            "category": "Resources",
-            "description": null,
-            "ingredients": [],
-            "crafting station": null,
-            "usage": ["Fish Curry", "Soy Bean Stir-Fry", "Vegetable Pie"],
-            "weight": null
         },
         {
             "name": "Spoiled Meat",
@@ -2082,15 +2090,6 @@
             "crafting station": "Mortar and Pestle",
             "usage": ["Concrete Mix", "Epoxy"],
             "weight": 0.01
-        },
-        {
-            "name": "Watermelon",
-            "category": "Resources",
-            "description": null,
-            "ingredients": [],
-            "crafting station": null,
-            "usage": ["Fruit Pie", "Fruit Salad"],
-            "weight": 0.1
         },
         {
             "name": "Wheat",
