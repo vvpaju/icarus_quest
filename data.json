@@ -1266,12 +1266,264 @@
     
     "consumables": [
         {
+            "name": "Anti-Parasitic Paste",
+            "category": "Consumables",
+            "description": "A medical preparation for reducing the effects of festering wounds.",
+            "ingredients": ["1 Reed Flower", "1 Sulfur", "1 Charcoal"],
+            "crafting station": "Character",
+            "usage": [],
+            "weight": 0.25
+        },
+        {
+            "name": "Anti-Parasitic Pill",
+            "category": "Consumables",
+            "description": "A potent antidacterial preparation for preventing festering wounds.",
+            "ingredients": ["1 Anti-Parasitic Tonic", "1 Organic Resin", "5 Charcoal"],
+            "crafting station": "Kitchen Bench",
+            "usage": [],
+            "weight": null
+        },
+        {
+            "name": "Anti-Parasitic Tonic",
+            "category": "Consumables",
+            "description": "A medicinal preparation for curing festering wounds.",
+            "ingredients": ["1 Reed Flower", "1 Organic Resin", "3 Charcoal"],
+            "crafting station": "Herbalism Bench",
+            "usage": [],
+            "weight": null
+        },
+        {
+            "name": "Anti-Poison Paste",
+            "category": "Consumables",
+            "description": "A basic toxicology and anti-venom kit to reduce the effects of poisoning.",
+            "ingredients": ["1 Fiber", "1 Spoiled Meat", "1 Charcoal"],
+            "crafting station": "Character",
+            "usage": [],
+            "weight": 0.25
+        },
+        {
+            "name": "Anti-Poison Pill",
+            "category": "Consumables",
+            "description": "A long-acting anti-venom to prevent poisoning.",
+            "ingredients": ["1 Anti-Poison Tonic", "1 Poison Paste", "5 Charcoal"],
+            "crafting station": "Kitchen Bench",
+            "usage": [],
+            "weight": null
+        },
+        {
+            "name": "Anti-Poison Tonic",
+            "category": "Consumables",
+            "description": "Fast-working anti-venom to combat poisoning.",
+            "ingredients": ["1 Fiber", "1 Poison Paste", "3 Charcoal"],
+            "crafting station": "Herbalism Bench",
+            "usage": [],
+            "weight": 0.25
+        },
+        {
+            "name": "Antibiotic Paste",
+            "category": "Consumables",
+            "description": "Reduces the effects of food poisoning, and other low grade infections",
+            "ingredients": ["1 Yeast", "1 Silica Ore", "1 Charcoal"],
+            "crafting station": "Character",
+            "usage": [],
+            "weight": 0.25
+        },
+        {
+            "name": "Antibiotic Pill",
+            "category": "Consumables",
+            "description": "A broad-spectrum antibacterial agent, protecting aganist food poisoning, wound infections and pneumonia.",
+            "ingredients": ["1 Antibiotic Tonic", "1 Epoxy", "5 Charcoal"],
+            "crafting station": "Kitchen Bench",
+            "usage": [],
+            "weight": null
+        },
+        {
+            "name": "Antibiotic Tonic",
+            "category": "Consumables",
+            "description": "An antibacterial distillation that cures food poisoning, wound infections and afflictions like pneumonia.",
+            "ingredients": ["1 Yeast", "1 Epoxy", "3 Charcoal"],
+            "crafting station": "Herbalism Bench",
+            "usage": [],
+            "weight": 0.25
+        },
+        {
+            "name": "Barbecue Carrot",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": ["1 Carrot"],
+            "crafting station": "Campfire",
+            "usage": [],
+            "weight": null
+        },
+        {
+            "name": "Basic Bandage",
+            "category": "Consumables",
+            "description": "Cloth bandages to stem bleeding and heal minor wounds.",
+            "ingredients": ["40 Fiber"],
+            "crafting station": "Character",
+            "usage": [],
+            "weight": 0.1
+        },
+        {
+            "name": "Beer",
+            "category": "Consumables",
+            "description": "Proving you can brew beer from just about anything.",
+            "ingredients": ["20 Wheat", "1 Yeast", "1 Beer Bottle"],
+            "crafting station": "Kitchen Bench",
+            "usage": [],
+            "weight": 0.1
+        },
+        {
+            "name": "Berry Jam",
+            "category": "Consumables",
+            "description": "Slightly bitter, but unsurpassed.",
+            "ingredients": ["5 Wild Berry", "1 Glass Jar"],
+            "crafting station": "Kitchen Bench",
+            "usage": [],
+            "weight": 0.05
+        },
+        {
+            "name": "Blood Thinning Paste",
+            "category": "Consumables",
+            "description": "A folk remedy for diminishing the effects of concussions and contusions.",
+            "ingredients": ["1 Lily", "10 Stick", "1 Charcoal"],
+            "crafting station": "Character",
+            "usage": [],
+            "weight": 0.25
+        },
+        {
+            "name": "Blood Thinning Pill",
+            "category": "Consumables",
+            "description": "A potent preventative for concussions and contusions.",
+            "ingredients": ["1 Blood Thinning Tonic", "1 Tree Sap", "5 Charcoal"],
+            "crafting station": "Kitchen Bench",
+            "usage": [],
+            "weight": null
+        },
+        {
+            "name": "Blood Thinning Tonic",
+            "category": "Consumables",
+            "description": "An effective remedy for relieving concussions and contusions",
+            "ingredients": ["1 Lily", "1 Tree Sap", "3 Charcoal"],
+            "crafting station": "Herbalism Bench",
+            "usage": [],
+            "weight": 0.25
+        },
+        {
+            "name": "Bread",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": ["1 Bread Dough"],
+            "crafting station": "Biofuel Stove",
+            "usage": [],
+            "weight": null
+        },
+        {
             "name": "Carrot",
             "category": "Consumables",
             "description": null,
             "ingredients": [],
             "crafting station": null,
             "usage": ["Barbecue Carrot", "Pickled Carrot", "Roast Vegetables", "Soy Bean Stir-Fry"],
+            "weight": 0.1
+        },
+        {
+            "name": "Charred Corn",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": ["1 Corn"],
+            "crafting station": "Fireplace",
+            "usage": [],
+            "weight": null
+        },
+        {
+            "name": "Cooked Bacon",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": ["1 Raw Bacon"],
+            "crafting station": "Fireplace",
+            "usage": [],
+            "weight": null
+        },
+        {
+            "name": "Cooked Fatty T-Bone",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": ["1 Raw Fatty T-Bone"],
+            "crafting station": "Fireplace",
+            "usage": [],
+            "weight": null
+        },
+        {
+            "name": "Cooked Fish",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": ["1 Raw Fish"],
+            "crafting station": "Fireplace",
+            "usage": [],
+            "weight": null
+        },
+        {
+            "name": "Cooked Game Meat",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": ["1 Raw Game Meat"],
+            "crafting station": "Fireplace",
+            "usage": [],
+            "weight": null
+        },
+        {
+            "name": "Cooked Giant Steak",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": ["1 Raw Giant Steak"],
+            "crafting station": "Fireplace",
+            "usage": [],
+            "weight": null
+        },
+        {
+            "name": "Cooked Meat",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": ["1 Raw Meat"],
+            "crafting station": "Fireplace",
+            "usage": [],
+            "weight": 0.01
+        },
+        {
+            "name": "Cooked Soft Meat",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": ["1 Raw Soft Meat"],
+            "crafting station": "Fireplace",
+            "usage": [],
+            "weight": null
+        },
+        {
+            "name": "Cooked Stringy Meat",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": ["1 Raw Stringy Meat"],
+            "crafting station": "Fireplace",
+            "usage": [],
+            "weight": null
+        },
+        {
+            "name": "Cooked White Meat",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": ["1 Raw White Meat"],
+            "crafting station": "Fireplace",
+            "usage": [],
+            "weight": null
+        },
+        {
+            "name": "Cooling Bandage",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": ["40 Fiber", "4 Oxite", "10 Charcoal"],
+            "crafting station": "Character",
+            "usage": [],
             "weight": 0.1
         },
         {
@@ -1284,6 +1536,240 @@
             "weight": 0.01
         },
         {
+            "name": "Creamed Corn",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": ["1 Corn", "1 Animal Fat"],
+            "crafting station": "Cooking Station",
+            "usage": [],
+            "weight": 0.01
+        },
+        {
+            "name": "Crispy Bacon",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": ["1 Raw Bacon", "1 Animal Fat"],
+            "crafting station": "Potbelly Stove",
+            "usage": [],
+            "weight": 0.01
+        },
+        {
+            "name": "Crumbed Fish Fillet",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": ["1 Raw Fish", "1 Animal Fat", "1 Bread Dough"],
+            "crafting station": "Biofuel Stove",
+            "usage": [],
+            "weight": 0.01
+        },
+        {
+            "name": "Dried Fatty Tbone",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": ["1 Raw Fatty T-Bone"],
+            "crafting station": "Drying Rack",
+            "usage": [],
+            "weight": null
+        },
+        {
+            "name": "Dried Game Meat",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": ["1 Raw Game Meat"],
+            "crafting station": "Drying Rack",
+            "usage": [],
+            "weight": null
+        },
+        {
+            "name": "Dried Giant Steak",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": ["1 Raw Giant Steak"],
+            "crafting station": "Drying Rack",
+            "usage": [],
+            "weight": null
+        },
+        {
+            "name": "Dried Soft Meat",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": ["1 Raw Soft Meat"],
+            "crafting station": "Drying Rack",
+            "usage": [],
+            "weight": null
+        },
+        {
+            "name": "Dried Stringy Meat",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": ["1 Raw Stringy Meat"],
+            "crafting station": "Drying Rack",
+            "usage": [],
+            "weight": null
+        },
+        {
+            "name": "Dried White Meat",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": ["1 Raw White Meat"],
+            "crafting station": "Drying Rack",
+            "usage": [],
+            "weight": null
+        },
+        {
+            "name": "Fish Curry",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": ["1 Animal Fat", "1 Soy Bean", "1 Raw Fish"],
+            "crafting station": "Potbelly Stove",
+            "usage": [],
+            "weight": null
+        },
+        {
+            "name": "Flatbread",
+            "category": "Consumables",
+            "description": "Longlasting and healthful.",
+            "ingredients": ["1 Flatbread Dough"],
+            "crafting station": "Campfire",
+            "usage": [],
+            "weight": null
+        },
+        {
+            "name": "Food Consumption Paste",
+            "category": "Consumables",
+            "description": "Just because it's organic, doesn't mean it's good for you.",
+            "ingredients": ["1 Sponge", "2 Charcoal", "4 Lily"],
+            "crafting station": "Herbalism Bench",
+            "usage": [],
+            "weight": 0.01
+        },
+        {
+            "name": "Fruit Pie",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": ["1 Pastry", "1 Wild Berry", "1 Watermelon"],
+            "crafting station": "Biofuel Stove",
+            "usage": [],
+            "weight": 0.1
+        },
+        {
+            "name": "Fruit Salad",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": ["1 Wild Berry", "1 Watermelon"],
+            "crafting station": "Cooking Station",
+            "usage": [],
+            "weight": 0.1
+        },
+        {
+            "name": "Gorse Tea",
+            "category": "Consumables",
+            "description": "A slightly bitter, warming beverage that reduces thirst.",
+            "ingredients": ["50 Gorse Flower", "1 Thermos"],
+            "crafting station": "Campfire",
+            "usage": [],
+            "weight": null
+        },
+        {
+            "name": "Grilled Pumpkin",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": ["1 Pumpkin"],
+            "crafting station": "Campfire",
+            "usage": [],
+            "weight": null
+        },
+        {
+            "name": "Health Buff Paste",
+            "category": "Consumables",
+            "description": "An organic preparation that temporarily increases health.",
+            "ingredients": ["2 Lily", "2 Wheat", "1 Tree Sap"],
+            "crafting station": "Herbalism Bench",
+            "usage": [],
+            "weight": 0.01
+        },
+        {
+            "name": "Health Regeneration Paste",
+            "category": "Consumables",
+            "description": "A herbal confection that speeds healing.",
+            "ingredients": ["2 Lily", "1 Tree Sap"],
+            "crafting station": "Herbalism Bench",
+            "usage": [],
+            "weight": 0.01
+        },
+        {
+            "name": "Health Restoration Paste",
+            "category": "Consumables",
+            "description": "An organic fusion that restores health.",
+            "ingredients": ["20 Lily", "20 Wheat", "10 Tree Sap"],
+            "crafting station": "Herbalism Bench",
+            "usage": [],
+            "weight": 0.01
+        },
+        {
+            "name": "Heat Bandage",
+            "category": "Consumables",
+            "description": "Cloth bandages impregnated with a warming salve, for treating frostbite.",
+            "ingredients": ["40 Fiber", "4 Oxite", "10 Charcoal"],
+            "crafting station": "Character",
+            "usage": [],
+            "weight": 0.1
+        },
+        {
+            "name": "Hot Cocoa",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": ["50 Cocoa Seed", "1 Thermos"],
+            "crafting station": "Campfire",
+            "usage": [],
+            "weight": null
+        },
+        {
+            "name": "Hot Coffee",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": ["50 Coffee Bean", "1 Thermos"],
+            "crafting station": "Campfire",
+            "usage": [],
+            "weight": null
+        },
+        {
+            "name": "Hot Tea",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": ["50 Tea", "1 Thermos"],
+            "crafting station": "Campfire",
+            "usage": [],
+            "weight": null
+        },
+        {
+            "name": "Mature Coconut",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": [],
+            "weight": null
+        },
+        {
+            "name": "Meat Pie",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": ["1 Pastry", "1 Mushroom", "1 Pumpkin", "1 Raw Meat"],
+            "crafting station": "Biofuel Stove",
+            "usage": [],
+            "weight": 0.1
+        },
+        {
+            "name": "Mushroom Soup",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": ["1 Mushroom"],
+            "crafting station": "Campfire",
+            "usage": [],
+            "weight": null
+        },
+        {
             "name": "Oxite",
             "category": "Consumables",
             "description": "Can be refined into breathable oxygen.",
@@ -1293,12 +1779,57 @@
             "weight": 0.4
         },
         {
+            "name": "Oxygen Buff Paste",
+            "category": "Consumables",
+            "description": "A natural concoction that increases available oxygen.",
+            "ingredients": ["4 Sponge", "2 Charcoal"],
+            "crafting station": "Herbalism Bench",
+            "usage": [],
+            "weight": 0.01
+        },
+        {
+            "name": "Oxygen Consumption Paste",
+            "category": "Consumables",
+            "description": "A natural beta blocker.",
+            "ingredients": ["1 Sponge", "2 Charcoal"],
+            "crafting station": "Herbalism Bench",
+            "usage": [],
+            "weight": 0.01
+        },
+        {
+            "name": "Oxygen Restoration Paste",
+            "category": "Consumables",
+            "description": "An organic co-factor that rapidly restores oxygen.",
+            "ingredients": ["1 Sponge", "2 Charcoal", "2 Oxite"],
+            "crafting station": "Herbalism Bench",
+            "usage": [],
+            "weight": 0.01
+        },
+        {
+            "name": "Pickled Carrot",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": ["1 Carrot", "1 Glass Jar"],
+            "crafting station": "Kitchen Bench",
+            "usage": [],
+            "weight": null
+        },
+        {
             "name": "Pumpkin",
             "category": "Consumables",
             "description": null,
             "ingredients": [],
             "crafting station": null,
             "usage": ["Grilled Pumpkin", "Meat Pie", "Pumpkin Bread", "Roast Vegetables", "Wild Salad"],
+            "weight": 0.1
+        },
+        {
+            "name": "Pumpkin Bread",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": ["1 Pumpkin", "1 Bread Dough"],
+            "crafting station": "Biofuel Stove",
+            "usage": [],
             "weight": 0.1
         },
         {
@@ -1383,6 +1914,33 @@
             "weight": 0.05
         },
         {
+            "name": "Ripe Coconut",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": [],
+            "weight": null
+        },
+        {
+            "name": "Roast Squash",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": ["1 Squash"],
+            "crafting station": "Campfire",
+            "usage": [],
+            "weight": null
+        },
+        {
+            "name": "Roast Vegetables",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": ["1 Pumpkin", "1 Carrot", "1 Squash"],
+            "crafting station": "Potbelly Stove",
+            "usage": [],
+            "weight": null
+        },
+        {
             "name": "Soy Bean",
             "category": "Consumables",
             "description": null,
@@ -1392,6 +1950,105 @@
             "weight": null
         },
         {
+            "name": "Soy Bean Stir-Fry",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": ["1 Mushroom", "1 Carrot", "1 Soy Bean"],
+            "crafting station": "Potbelly Stove",
+            "usage": ["Fish Curry", "Soy Bean Stir-Fry", "Vegetable Pie"],
+            "weight": null
+        },
+        {
+            "name": "Squash",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Roast Squash", "Roast Vegetables", "Vegetable Pie", "Wild Salad"],
+            "weight": 0.1
+        },
+        {
+            "name": "Stamina Buff Paste",
+            "category": "Consumables",
+            "description": "A herbal concoction, temporarily increasing stamina.",
+            "ingredients": ["2 Reed Flower", "2 Wheat", "1 Tree Sap"],
+            "crafting station": "Herbalism Bench",
+            "usage": [],
+            "weight": 0.1
+        },
+        {
+            "name": "Stamina Consumption Paste",
+            "category": "Consumables",
+            "description": "A biotic compound that slows stamina loss temporarily.",
+            "ingredients": ["2 Reed Flower", "2 Tree Sap"],
+            "crafting station": "Herbalism Bench",
+            "usage": [],
+            "weight": 0.1
+        },
+        {
+            "name": "Stamina Regeneration Paste",
+            "category": "Consumables",
+            "description": "An organic stimulant that accelerates stamina recovery.",
+            "ingredients": ["2 Reed Flower"],
+            "crafting station": "Herbalism Bench",
+            "usage": [],
+            "weight": 0.1
+        },
+        {
+            "name": "Stamina Restoration Paste",
+            "category": "Consumables",
+            "description": "A natural stimulant that restores lost stamina.",
+            "ingredients": ["20 Reed Flower", "20 Wheat", "10 Tree Sap"],
+            "crafting station": "Herbalism Bench",
+            "usage": [],
+            "weight": 0.1
+        },
+        {
+            "name": "Stew",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": ["1 Mushroom", "1 Carrot", "1 Raw Meat"],
+            "crafting station": "Potbelly Stove",
+            "usage": [],
+            "weight": null
+        },
+        {
+            "name": "Suture Kit",
+            "category": "Consumables",
+            "description": "A basic medical kit for healing deep wounds.",
+            "ingredients": ["10 Fiber", "5 Bone", "2 Leather"],
+            "crafting station": "Potbelly Stove",
+            "usage": [],
+            "weight": 0.1
+        },
+        {
+            "name": "Sweetcorn Soup",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": ["1 Corn"],
+            "crafting station": "Potbelly Stove",
+            "usage": [],
+            "weight": null
+        },
+        {
+            "name": "Vegetable Pie",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": ["1 Pastry", "1 Squash", "1 Soy Bean", "1 Corn"],
+            "crafting station": "Potbelly Stove",
+            "usage": [],
+            "weight": 0.1
+        },
+        {
+            "name": "Water Consumption Paste",
+            "category": "Consumables",
+            "description": null,
+            "ingredients": ["1 Sponge", "2 Charcoal", "4 Reed Flower"],
+            "crafting station": "Herbalism Bench",
+            "usage": [],
+            "weight": 0.01
+        },
+        {
             "name": "Watermelon",
             "category": "Consumables",
             "description": null,
@@ -1399,7 +2056,43 @@
             "crafting station": null,
             "usage": ["Fruit Pie", "Fruit Salad"],
             "weight": 0.1
-        }        
+        },
+        {
+            "name": "Wild Berry",
+            "category": "Resources",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": ["Berry Jam", "Fruit Pie", "Fruit Salad", "Wine"],
+            "weight": 0.001
+        },      
+        {
+            "name": "Wild Salad",
+            "category": "Resources",
+            "description": null,
+            "ingredients": ["1 Pumpkin", "1 Squash"],
+            "crafting station": "Cooking Station",
+            "usage": [],
+            "weight": 0.01
+        }, 
+        {
+            "name": "Wine",
+            "category": "Resources",
+            "description": "One of humanity’s oldest inventions.",
+            "ingredients": ["10 Wild Berry", "1 Reed Flower", "1 Wine Bottle"],
+            "crafting station": "Kitchen Bench",
+            "usage": [],
+            "weight": 1
+        }, 
+        {
+            "name": "Young Coconut",
+            "category": "Resources",
+            "description": null,
+            "ingredients": [],
+            "crafting station": null,
+            "usage": [],
+            "weight": null
+        }         
     ],
     
     "deployables": [
@@ -1667,6 +2360,15 @@
             "crafting station": null,
             "usage": ["Basic Bandage", "Bedroll", "Building Upgrade Tool", "Campfire", "Carpentry Bench", "Cloth Arms Armor", "Cloth Chest Armor", "Cloth Feet Armor", "Cloth Head Armor", "Cloth Legs Armor", "Cooking Station", "Cooling Bandage", "Crafting Bench", "Drying Rack", "Fire Whacker", "Floor Torch", "Ghillie Arms Armor", "Ghillie Chest Armor", "Ghillie Feet Armor", "Ghillie Head Armor", "Ghillie Legs Armor", "Heat Bandage", "Herbalism Bench", "Hunter Arms Armor", "Hunter Chest Armor", "Hunter Feet Armor", "Hunter Head Armor", "Hunter Legs Armor", "Leather Arms Armor", "Leather Backpack", "Leather Chest Armor", "Leather Feet Armor", "Leather Head Armor", "Leather Legs Armor", "Medium Wood Crate", "Oxidizer", "Oxygen Bladder", "Rope", "Skinning Bench", "Small Wood Crate", "Stone Arrow", "Stone Axe", "Stone Knife", "Stone Pickaxe", "Suture Kit", "Textiles Bench", "Thatch Beam", "Thatch Door", "Thatch Floor", "Thatch Floor Trapdoor", "Thatch Halfpieces", "Thatch Halfpitches", "Thatch Ladder", "Thatch Railing", "Thatch Ramp", "Thatch Roof", "Thatch Roof Corner", "Thatch Stairs", "Thatch Trapdoor", "Thatch Wall", "Thatch Wall Angled", "Thatch Window", "Waterskin", "Wood Beam", "Wood Bow", "Wood Door", "Wood Floor", "Wood Floor Trapdoor", "Wood Halfpieces", "Wood Halfpitches", "Wood Ladder", "Wood Rag Torch", "Wood Railing", "Wood Ramp", "Wood Repair Hammer", "Wood Roof", "Wood Roof Corner", "Wood Stairs", "Wood Torch", "Wood Trapdoor", "Wood Wall", "Wood Wall Angled", "Wood Window"],
             "weight": 0.01
+        },
+        {
+            "name": "Flatbread Dough",
+            "category": "Resources",
+            "description": "Makes flatbread, just add to a fire.",
+            "ingredients": ["5 Flour"],
+            "crafting station": "Herbalism Bench",
+            "usage": ["Flatbread"],
+            "weight": 0.025
         },
         {
             "name": "Fur",
@@ -1975,15 +2677,6 @@
             "weight": 0.1
         },
         {
-            "name": "Squash",
-            "category": "Resources",
-            "description": null,
-            "ingredients": [],
-            "crafting station": null,
-            "usage": ["Roast Squash", "Roast Vegetables", "Vegetable Pie", "Wild Salad"],
-            "weight": 0.1
-        },
-        {
             "name": "Steel Bloom",
             "category": "Resources",
             "description": "A precursor mixture of iron ore and coal.",
@@ -2099,15 +2792,6 @@
             "crafting station": null,
             "usage": ["Beer", "Flour", "Health Buff Paste", "Health Restoration Paste", "Stamina Buff Paste", "Stamina Restoration Paste"],
             "weight": null
-        },
-        {
-            "name": "Wild Berry",
-            "category": "Resources",
-            "description": null,
-            "ingredients": [],
-            "crafting station": null,
-            "usage": ["Berry Jam", "Fruit Pie", "Fruit Salad", "Wine"],
-            "weight": 0.001
         },
         {
             "name": "Wood",
