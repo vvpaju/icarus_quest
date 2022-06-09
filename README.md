@@ -14,6 +14,7 @@ So far only an incomplete .json of the items of Icarus.
 ## To be checked later:
 - Crafted Resources
 - Ammo 
+- Amounts of resources for crafting
 
 ## Wiki is outdated and missing:
 - Crispy bacon ingredients
